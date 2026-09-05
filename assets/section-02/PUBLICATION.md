@@ -9,7 +9,7 @@ Destination verified through the connected Google Drive API on 2026-09-05.
 
 ## Publication gate
 
-All six selected section-two spreads have been uploaded after independent visual QA and the orchestrator's own inspection. Each upload has been read back through Drive metadata or the destination folder listing, confirming PNG type and matching local byte size. Publication is complete; user approval of the new artwork remains a separate status. No raw family photographs, private reference files, or failed candidates were uploaded.
+All six selected section-two spreads have been uploaded after independent visual QA and the orchestrator's own inspection. Each upload has been read back through Drive metadata or the destination folder listing, confirming PNG type and matching local byte size. Drive publication is complete; user approval of the new artwork remains a separate status. No raw family photographs, private reference files, or failed candidates were uploaded.
 
 Browser access has resumed after the Mac lock. The section folder was verified empty before the first upload. Download, independently review, and upload only passed selections.
 
@@ -25,3 +25,7 @@ The `google_drive_upload_file` connector accepts `file_uri` as an absolute local
 | section-02-page-04 | `assets/section-02/page-04/spread-v2.png` | [Aiden_Section02_Page04.png](https://drive.google.com/file/d/1_IL19aG52IKXjy5YW5tObSIiSoD2FqxC/view?usp=drivesdk) | 2165482 | `9dd643c5209ecf6cb92188c780e7f85dd34306a6a47ee32540da1d4fd233211f` | QA passed; parent inspected. Upload and section-folder readback confirmed PNG and matching bytes on 2026-09-05. |
 | section-02-page-05 | `assets/section-02/page-05/spread-v2.png` | [Aiden_Section02_Page05.png](https://drive.google.com/file/d/1360xjsmRSGvFln9YvAGkHGCc9QWIyBpk/view?usp=drivesdk) | 2583255 | `ec156e9d61f6e0dc580b652dbdd660e3cda270987a8cedc0e90e95c8dceb2b8e` | QA passed; parent inspected. Upload and section-folder readback confirmed PNG and matching bytes on 2026-09-05. |
 | section-02-page-06 | `assets/section-02/page-06/spread-v2.png` | [Aiden_Section02_Page06.png](https://drive.google.com/file/d/1IoAQixmXdCAgc4cfjXeNLtnRaQOZiqCt/view?usp=drivesdk) | 2340276 | `6b7ab7c3abbae38e072f0906ea09f4ee7f73e83f3133594baefc637f84daa0aa` | QA passed; parent inspected. Upload and metadata readback confirmed PNG, matching bytes, and section parent on 2026-09-05. |
+
+## Git binary publication
+
+The user explicitly requested actual selected artwork in Git as well as Drive. This commit stores the six original selected PNGs at the `repository_path` entries in [manifest.json](manifest.json). Existing SHA-256 values apply to both copies. The Git tree contains the six actual binaries together with this catalog; branch publication and remote hash verification are checked by the publishing agent before reporting completion. No raw references or rejected candidates are included.

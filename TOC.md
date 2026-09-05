@@ -85,4 +85,13 @@ Maintain this index when adding, moving, or renaming key files. Do not list prop
 
 ## Section 2 — time and primates
 
-All six selected spreads passed independent visual review and the parent agent's inspection. All six PNG uploads were verified by Drive metadata (MIME type, bytes, and parent); details are tracked in [publication record](assets/section-02/PUBLICATION.md); user creative approval remains pending. See the [six-page status and asset links](SECTION_02_STATUS.md), [source brief](SECTION_02_BRIEF.md), and [quality review](assets/section-02/QUALITY_REVIEW.md). Selected image binaries remain local and in the [Section 2 Drive folder](https://drive.google.com/drive/folders/1wm8GxfQHEoLbV9dzOAID2QFJzfQI4Rzz), outside GitHub.
+All six selected spreads passed independent visual review and the parent agent's inspection. All six PNG uploads were verified by Drive metadata (MIME type, bytes, and parent); details are tracked in [publication record](assets/section-02/PUBLICATION.md); user creative approval remains pending. See the [six-page status and asset links](SECTION_02_STATUS.md), [source brief](SECTION_02_BRIEF.md), and [quality review](assets/section-02/QUALITY_REVIEW.md). The six selected PNGs are stored in Git at the repository paths below, alongside their verified copies in the [Section 2 Drive folder](https://drive.google.com/drive/folders/1wm8GxfQHEoLbV9dzOAID2QFJzfQI4Rzz). This commit includes all six selected PNG binaries.
+
+| Page | Git asset path | Verified Drive copy |
+| --- | --- | --- |
+| 1 — Back to the Tree | [PNG](assets/section-02/page-01/spread-v01.png) | [Drive](https://drive.google.com/file/d/123Dib_2dxKL4mRY3k1lH1zG_g9xYBixf/view?usp=drivesdk) |
+| 2 — Eating Together | [PNG](assets/section-02/page-02/spread-v01.png) | [Drive](https://drive.google.com/file/d/1fGzcnUkz88X238eCjkqC7grivXGYxKGF/view?usp=drivesdk) |
+| 3 — Want to Play? | [PNG](assets/section-02/page-03/spread-v2.png) | [Drive](https://drive.google.com/file/d/1IU0g-N_vtSislynLr_-rzJHYHH3Rhstk/view?usp=drivesdk) |
+| 4 — Aiden Plays Alone | [PNG](assets/section-02/page-04/spread-v2.png) | [Drive](https://drive.google.com/file/d/1_IL19aG52IKXjy5YW5tObSIiSoD2FqxC/view?usp=drivesdk) |
+| 5 — Still Eating! | [PNG](assets/section-02/page-05/spread-v2.png) | [Drive](https://drive.google.com/file/d/1360xjsmRSGvFln9YvAGkHGCc9QWIyBpk/view?usp=drivesdk) |
+| 6 — The Chalkboard: Time Spent Eating | [PNG](assets/section-02/page-06/spread-v2.png) | [Drive](https://drive.google.com/file/d/1IoAQixmXdCAgc4cfjXeNLtnRaQOZiqCt/view?usp=drivesdk) |

@@ -3,7 +3,7 @@
   "updated_at": "2026-09-05T17:32:59.388927+00:00",
   "section_id": "section-02",
   "title": "Time and Primates",
-  "scope": "SEQUENCE TWO \u2014 THE NEXT DAY, six pages; other sections excluded",
+  "scope": "SEQUENCE TWO — THE NEXT DAY, six pages; other sections excluded",
   "source_url": "https://docs.google.com/document/d/1f6nbea5M4BJEsfQdq17SvxFLUpuSjPrzEQhwimhki0I/edit",
   "source_brief_path": "SECTION_02_BRIEF.md",
   "drive_folder": {
@@ -43,7 +43,12 @@
         "status": "uploaded_and_metadata_verified",
         "evidence_path": "assets/section-02/PUBLICATION.md"
       },
-      "next_action": "Await user review; preserve selected original."
+      "next_action": "Await user review; preserve selected original.",
+      "git": {
+        "repository_path": "assets/section-02/page-01/spread-v01.png",
+        "url": "https://github.com/travelmail26/kidsbook/blob/main/assets/section-02/page-01/spread-v01.png",
+        "status": "included_in_this_commit"
+      }
     },
     {
       "scene_id": "section-02-page-02",
@@ -77,7 +82,12 @@
         "status": "uploaded_and_metadata_verified",
         "evidence_path": "assets/section-02/PUBLICATION.md"
       },
-      "next_action": "Await user review; preserve selected original."
+      "next_action": "Await user review; preserve selected original.",
+      "git": {
+        "repository_path": "assets/section-02/page-02/spread-v01.png",
+        "url": "https://github.com/travelmail26/kidsbook/blob/main/assets/section-02/page-02/spread-v01.png",
+        "status": "included_in_this_commit"
+      }
     },
     {
       "scene_id": "section-02-page-03",
@@ -112,7 +122,12 @@
         "status": "uploaded_and_metadata_verified",
         "evidence_path": "assets/section-02/PUBLICATION.md"
       },
-      "next_action": "Await user review; preserve selected original."
+      "next_action": "Await user review; preserve selected original.",
+      "git": {
+        "repository_path": "assets/section-02/page-03/spread-v2.png",
+        "url": "https://github.com/travelmail26/kidsbook/blob/main/assets/section-02/page-03/spread-v2.png",
+        "status": "included_in_this_commit"
+      }
     },
     {
       "scene_id": "section-02-page-04",
@@ -147,7 +162,12 @@
         "status": "uploaded_and_metadata_verified",
         "evidence_path": "assets/section-02/PUBLICATION.md"
       },
-      "next_action": "Await user review; preserve selected original."
+      "next_action": "Await user review; preserve selected original.",
+      "git": {
+        "repository_path": "assets/section-02/page-04/spread-v2.png",
+        "url": "https://github.com/travelmail26/kidsbook/blob/main/assets/section-02/page-04/spread-v2.png",
+        "status": "included_in_this_commit"
+      }
     },
     {
       "scene_id": "section-02-page-05",
@@ -182,7 +202,12 @@
         "status": "uploaded_and_metadata_verified",
         "evidence_path": "assets/section-02/PUBLICATION.md"
       },
-      "next_action": "Await user review; preserve selected original."
+      "next_action": "Await user review; preserve selected original.",
+      "git": {
+        "repository_path": "assets/section-02/page-05/spread-v2.png",
+        "url": "https://github.com/travelmail26/kidsbook/blob/main/assets/section-02/page-05/spread-v2.png",
+        "status": "included_in_this_commit"
+      }
     },
     {
       "scene_id": "section-02-page-06",
@@ -217,7 +242,12 @@
         "status": "uploaded_and_metadata_verified",
         "evidence_path": "assets/section-02/PUBLICATION.md"
       },
-      "next_action": "Await user review; preserve selected original."
+      "next_action": "Await user review; preserve selected original.",
+      "git": {
+        "repository_path": "assets/section-02/page-06/spread-v2.png",
+        "url": "https://github.com/travelmail26/kidsbook/blob/main/assets/section-02/page-06/spread-v2.png",
+        "status": "included_in_this_commit"
+      }
     }
   ]
 }

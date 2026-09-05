@@ -96,3 +96,13 @@ For the logging subagent. The main agent uses the three recent summaries in [AGE
 - All six PNGs uploaded to the private Section 02 — Time and Primates Drive folder. Parent verification confirmed each file's PNG MIME type, bytes, and parent; local SHA-256, size, dimensions, and all source/prompt paths were checked. Final links, ChatGPT conversations, selected paths, hashes, and source/review evidence are cataloged in SECTION_02_STATUS.md and assets/section-02/manifest.json and PUBLICATION.md.
 - Updated workflow documents, source/prompts and per-page status, quality review, reference provenance, and completion tracking. Opening page 3 preparation remains deferred with its superseded authorization blocker corrected; no new opening illustration claimed.
 - This publication contains Markdown/JSON documentation and links only, preserving concurrent Section 1 work and Section 3's accepted pages 1–5 and provisional, revision-needed Option B. No reference photos or image binaries are published. Git branch update is separately verified after this commit is created; this entry alone is not evidence of successful publication.
+
+## 2026-09-05T17:49:23+00:00 — Section 2 Git asset publication prepared
+
+- User explicitly requested actual assets in Git in addition to the existing Drive folder, TOC, and todo records. Prepared six selected PNG repository paths and paired Git/Drive catalog links; existing six Drive copies remain verified and user creative approval remains pending.
+- Refreshed shared documents from current GitHub main, preserving Section 1 delivery and Section 3 revision status. Git upload and remote hash verification are pending; this entry records preparation, not successful binary publication.
+
+## 2026-09-05T17:52:46+00:00 — Section 2 actual PNG assets published to Git
+
+- User explicitly requested actual artwork files in Git as well as the existing Drive folder, TOC and todo records. This commit includes all six selected Section 2 PNG binaries at their cataloged repository paths, with paired Git/Drive links and matching manifest SHA-256 values. The six existing Drive files were freshly verified for folder membership and matching sizes. User creative approval remains pending.
+- CLI push returned 403; authenticated GitHub connector blob/tree/commit publication is used. Publishing agent verifies the nonforced branch update, remote tree and asset hashes before reporting success. This record accompanies the same atomic commit as the six image files. No raw reference photos or failed candidates are included; concurrent sections and mobile-preview work are preserved.

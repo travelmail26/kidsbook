@@ -23,3 +23,7 @@ Machine-readable register: [manifest.json](assets/section-02/manifest.json). Exa
 ## Remaining work
 
 - [ ] Record explicit user approval if supplied; do not infer it from review or publication.
+
+## Git asset copies
+
+The user explicitly requested the actual selected PNGs in Git as well as Drive. This commit stores all six selected original PNGs at the paths in the manifest and TOC, alongside their verified Drive copies. Manifest SHA-256 values identify the exact originals. Artwork approval remains pending.

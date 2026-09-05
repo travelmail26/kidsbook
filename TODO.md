@@ -33,6 +33,8 @@ Source checked live: six pages from “SEQUENCE TWO — THE NEXT DAY” through 
 - [x] Section 2, page 6 — The Chalkboard: Time Spent Eating: exact dialogue, 2-versus-6 clocks and equal halves passed independent QA; selected v2 uploaded and verified.
 - [x] Publish section-two completion register, source/prompt/review paths, and verified Drive asset links to GitHub; preserve other sections' work.
 
+- [x] Publish the six selected Section 2 PNG binaries at their cataloged Git paths in this commit; existing Drive copies remain verified. Manifest SHA-256 values identify the exact originals.
+
 ### Opening sequence — current Section 1 delivery
 
 See [ASSET_STATUS.md](ASSET_STATUS.md) for stable scene IDs, current assets, evidence, and next actions. Section 1 now has seven delivered spreads; see [production register](SECTION_01.md) and [independent QA](SECTION_01_QA.md). Other scenes are tracked separately.
