@@ -4,9 +4,11 @@ Keep only current, task-relevant context here. Historical completion records bel
 
 ## Current work
 
-- Prepare to finish illustrations for *Aiden and His Hungry Friend*. Await the user's next page-specific instructions.
+- First two storyboard spreads for *Aiden and His Hungry Friend* generated and visually reviewed; drafts await Greg's feedback and are not user-approved.
+- Page-specific illustration agents used the inspected grandmother photograph and approved Aiden/style references. Both spreads separate left botanical handlettered text from right illustration; page 2 shows Aiden meeting Trevor and remembering Grandma teaching signs.
+- Page 1 retains its source text. Page 2 uses a lightly copyedited text in the draft image only; the source Google Doc and earlier approved artwork are unchanged.
 - The live storyboard has three sequences: meeting and chewing; time spent eating; lunch, resting, and the cooking reveal. Recheck the source for current wording and sequence numbering before producing a page.
-- No illustration files have been imported into this repository yet. See [ILLUSTRATIONS.md](ILLUSTRATIONS.md) for source locations.
+- New artwork is in this conversation, not this repository. See [ILLUSTRATIONS.md](ILLUSTRATIONS.md) for source locations.
 
 ## Confirmed preferences and directions
 
@@ -17,6 +19,6 @@ Keep only current, task-relevant context here. Historical completion records bel
 
 ## Resolve when relevant
 
-- Locate and visually inspect the approved images before continuing their style; filenames in the storyboard are source references, not verified local paths.
+- The grandmother photograph and approved Aiden/style references were visually inspected for the first two spreads; inspect the relevant references again when needed for subsequent scenes.
 - The source uses both page numbers and "Next Page" labels. Confirm the intended scene rather than relying on a number alone.
 - Confirm the final anatomical diagram's wording and proportions before illustrating it; the running notes are not a scientific validation of the manuscript.
