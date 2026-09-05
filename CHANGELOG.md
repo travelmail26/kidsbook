@@ -2,6 +2,14 @@
 
 For the logging subagent. The main agent uses the three recent summaries in [AGENTS.md](AGENTS.md) and must not read this history.
 
+## 2026-09-05T15:28:24Z — Approved spreads uploaded to Google Drive
+
+- Greg said "good" about the first two spreads and explicitly requested upload to Google Drive, completed to-do notes, and TOC asset paths. Both final spreads are now user-approved.
+- Uploaded `Aiden_Spread_01_Introduction_Approved.png` and `Aiden_Spread_02_Grandma_Signing_Approved.png` to the verified kids book folder `181gunc7k4YIaNPoFy1uQq-AppJ63z7BT`. Main-agent Drive readback verified PNG MIME types, folder membership, filenames, and byte sizes 2,187,390 / 2,286,800 matching the originals.
+- Approved assets: [Spread 1 — Introduction](https://drive.google.com/file/d/19Q9AjIchhOGxEqLWYzh_WxUkURgnyvFZ/view?usp=drivesdk) and [Spread 2 — Grandma signing](https://drive.google.com/file/d/10g6DP9YSiHc-gkeJ5FR0h7SkEa5evPCT/view?usp=drivesdk).
+- Updated TOC.md with direct asset links and approval status; RUNNING_NOTES.md with acceptance and completed checked tasks; ILLUSTRATIONS.md with approved assets and the distinction between the Grandma spread and the older tree-invitation page 2. Documentation updates reached commit `c5bfddce5640caf28e461063613ca5e052845332`; completion logging updates CHANGELOG.md and AGENTS.md.
+- The source Google Doc and earlier artwork remain unchanged. The public repository contains asset links; the PNG files remain in Google Drive.
+
 ## 2026-09-05T15:17:55Z — First two storyboard spreads
 
 - User requested the first two pages with text and illustration, actual grandmother-reference review, separate page illustration subagents, and iterative quality/fidelity review before showing the results.
