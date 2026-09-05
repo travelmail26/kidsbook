@@ -6,12 +6,16 @@ Use this register with TODO.md before assigning work. Stable scene IDs include t
 
 | Scene ID | Scene | Production status | User approval | Assets and evidence | Next action |
 | --- | --- | --- | --- | --- | --- |
-| opening-page-03 | Trevor stops to eat fruit | Approved reference recovered; earlier packaging assignment deferred | Existing spread labeled approved in live storyboard | Local reference `assets/references/approved-page-03.png`; [provenance and exact source text](assets/references/README.md) | Recheck current section-one register and approved original before resuming; avoid duplicate work |
-| opening-page-04 | Aiden imitates chewing; tired cheeks | Earlier prompt preparation deferred; no new draft from this assignment | Pending; do not infer from agent review | [Prompt](prompts/page-04/initial.md); local references under `assets/references/` | Recheck current section-one work before resuming; preserve any newer selected output |
+| opening-page-03 | Trevor stops to eat fruit (S1P4) | Full spread production reviewed; uploaded and verified | Original art approved; new typesetting awaits Greg's review | [Current selected PNG](https://drive.google.com/file/d/1cTxvcO_iXFVGPuYYMEmnKdxqRdy9R8hS/view?usp=drivesdk); [Section 1 provenance/text](SECTION_01.md); [QA](SECTION_01_QA.md) | Receive review; reuse current output; softer original art is a reading-copy limitation |
+| opening-page-04 | Aiden imitates chewing; tired cheeks (S1P5) | New built-in image-generation spread independently reviewed; uploaded and verified | Greg's review pending | [Current selected PNG](https://drive.google.com/file/d/1Av72p5QW72mTww4q0aRi8YBiBaaXNM3K/view?usp=drivesdk); [Section 1 text/provenance](SECTION_01.md); [QA](SECTION_01_QA.md) | Receive review; reuse current output; historical browser prompt is not this asset's production method |
 
-## Current browser handoff
+## Section 1 — complete reading-copy delivery
 
-**Current priority: complete all six pages of section two.** See [SECTION_02_BRIEF.md](SECTION_02_BRIEF.md) for fresh source directions and [section-two quality review](assets/section-02/QUALITY_REVIEW.md). Opening-section tasks below are deferred by the new section-two request. The user's latest request explicitly authorizes necessary reference use in ChatGPT, completed-asset Drive upload, and Git updates for this work.
+The current [seven-spread register](SECTION_01.md) provides the selected Drive assets, exact text, retained-art provenance, science correction, and publication verification; [independent QA](SECTION_01_QA.md) passed all seven. Spreads 1–2 are unchanged approved uploads; new production awaits Greg's review. Stable legacy IDs above map by scene to S1P4 and S1P5, not by delivered spread number. The [reading PDF](https://drive.google.com/file/d/1HmiGP1jOBqN87iUZ6pVkiiVMGWuTVIfQ/view?usp=drivesdk) contains seven ordered spreads. Section 3 B remains provisional; both diagram studies need revisions and are not accepted precedent.
+
+## Historical browser handoff — superseded for Section 1
+
+**Historical Section 2 handoff; current completion is recorded above.** See [SECTION_02_BRIEF.md](SECTION_02_BRIEF.md) for fresh source directions and [section-two quality review](assets/section-02/QUALITY_REVIEW.md). Opening-section tasks below are deferred by the new section-two request. The user's latest request explicitly authorizes necessary reference use in ChatGPT, completed-asset Drive upload, and Git updates for this work.
 
 Both agents verified visible model `6 Pro`, picker `Latest`, power `Pro, 5 of 5`. Page 3 tab: `1169344824`; page 4 tab: `1169344825`; Chrome browser `2`. Both are at ChatGPT with no submitted image prompt reported. These are temporary browser IDs, not completed asset paths. Recheck current state before resuming.
 

@@ -33,11 +33,14 @@ Source checked live: six pages from “SEQUENCE TWO — THE NEXT DAY” through 
 - [x] Section 2, page 6 — The Chalkboard: Time Spent Eating: exact dialogue, 2-versus-6 clocks and equal halves passed independent QA; selected v2 uploaded and verified.
 - [x] Publish section-two completion register, source/prompt/review paths, and verified Drive asset links to GitHub; preserve other sections' work.
 
-### Opening sequence — earlier assignment deferred
+### Opening sequence — current Section 1 delivery
 
-See [ASSET_STATUS.md](ASSET_STATUS.md) for stable scene IDs, current assets, evidence, and next actions. Other book scenes remain unassessed.
+See [ASSET_STATUS.md](ASSET_STATUS.md) for stable scene IDs, current assets, evidence, and next actions. Section 1 now has seven delivered spreads; see [production register](SECTION_01.md) and [independent QA](SECTION_01_QA.md). Other scenes are tracked separately.
 
 - [x] Recover and visually inspect the source-approved opening page 3 and page 2 images and character/text style references. See [provenance](assets/references/README.md).
-- [ ] Opening page 3: package the approved spread and separate text/illustration assets through the browser agent; verify fidelity and saved paths.
-- [ ] Opening page 4: generate the tired-cheeks scene through ChatGPT 6 Pro, review and revise to match source text, characters, and style; verify saved assets.
-- [ ] Record selected versions, conversation/prompt paths, review results, and remaining user approvals for both pages in ASSET_STATUS.md.
+- [x] Opening page 3 / S1P4 — Trevor eats: retained approved art, current left text, full spread reviewed and uploaded; [selected asset and provenance](SECTION_01.md). Earlier separate-panel/browser packaging is superseded by this Section 1 reading-copy delivery; separate panel files were not produced.
+- [x] Opening page 4 / S1P5 — Tired cheeks: new built-in image-generation spread passed independent QA and was uploaded/verified; [selected asset](SECTION_01.md). This completes the current task; no browser/model-specific production is claimed.
+- [x] Record current Section 1 selected assets, retained-art provenance, exact copy, review results, verified Drive paths and remaining user approval in SECTION_01.md, SECTION_01_QA.md, and ASSET_STATUS.md.
+- [x] Complete and independently review all seven Section 1 spreads; reuse approved 1–2, retain original art in 3/4/7, create 5–6, and deliver the verified seven-spread reading PDF.
+- [ ] Receive Greg's review of new Section 1 production work.
+- [ ] Resume Section 3 diagram B revisions when requested; B is provisional and neither alternative is accepted precedent.

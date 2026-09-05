@@ -15,6 +15,8 @@ Open only the file or source section needed for the current task. Do not preload
 | [Reference provenance](assets/references/README.md) | Inspected source images and opening page 3/4 text | Checking fidelity for the opening sequence |
 | [RUNNING_NOTES.md](RUNNING_NOTES.md) | Task checklist, current context, preferences, and unresolved questions | Relevant to current work |
 | [ILLUSTRATIONS.md](ILLUSTRATIONS.md) | Reference and illustration locations | Finding or preparing artwork |
+| [SECTION_01.md](SECTION_01.md) | Seven spreads: assets, exact copy, provenance and science edit | Reviewing Section 1 |
+| [SECTION_01_QA.md](SECTION_01_QA.md) | Independent seven-spread QA and upload/PDF verification | Checking Section 1 delivery |
 | [SECTION_03.md](SECTION_03.md) | Six final passages, assets, production details, and science edits/sources | Reviewing or revising Section 3 |
 | [SECTION_03_QA.md](SECTION_03_QA.md) | Independent visual QA and publication verification | Checking Section 3 completion |
 | [CHANGELOG.md](CHANGELOG.md) | Timestamped task history and feedback | Logging subagent only; main agent does not read |
@@ -32,6 +34,23 @@ Greg accepted both spreads on 2026-09-05 and requested upload and completion tra
 | 2 — Grandma teaching signs | [Aiden_Spread_02_Grandma_Signing_Approved.png](https://drive.google.com/file/d/10g6DP9YSiHc-gkeJ5FR0h7SkEa5evPCT/view?usp=drivesdk) | Completed; approved by Greg |
 
 These are the verified uploaded assets in the [kids book folder](https://drive.google.com/drive/folders/181gunc7k4YIaNPoFy1uQq-AppJ63z7BT); the PNGs are hosted in Drive.
+
+## Section 1 — complete reading copy; new work awaiting review
+
+Seven spreads run from Aiden's introduction through his first skull/chewing lesson; the inserted grandmother memory explains the extra spread. Spreads 1–2 are reused unchanged. Approved original art is retained in spreads 3, 4, and 7; spreads 5–6 are new. **All seven passed independent production QA; new work is not yet approved by Greg.** See [exact text and production record](SECTION_01.md) and [full quality review](SECTION_01_QA.md).
+
+| Spread | Google Drive asset | Status |
+| --- | --- | --- |
+| S1P1 — Introduction | [Aiden_Spread_01_Introduction_Approved.png](https://drive.google.com/file/d/19Q9AjIchhOGxEqLWYzh_WxUkURgnyvFZ/view?usp=drivesdk) | Unchanged; previously approved |
+| S1P2 — Grandma teaching signs | [Aiden_Spread_02_Grandma_Signing_Approved.png](https://drive.google.com/file/d/10g6DP9YSiHc-gkeJ5FR0h7SkEa5evPCT/view?usp=drivesdk) | Unchanged; previously approved |
+| S1P3 — New friend | [Aiden_Section01_Page03_New_Friend.png](https://drive.google.com/file/d/1UDn59i3q7OPN2xXd64vt1O4H1pq-0Wni/view?usp=drivesdk) | Production reviewed; retained approved art; new layout pending Greg's review |
+| S1P4 — Trevor eats | [Aiden_Section01_Page04_Trevor_Eats.png](https://drive.google.com/file/d/1cTxvcO_iXFVGPuYYMEmnKdxqRdy9R8hS/view?usp=drivesdk) | Production reviewed; retained approved art; new layout pending Greg's review |
+| S1P5 — Tired cheeks | [Aiden_Section01_Page05_Tired_Cheeks.png](https://drive.google.com/file/d/1Av72p5QW72mTww4q0aRi8YBiBaaXNM3K/view?usp=drivesdk) | New spread; independent QA passed; Greg's review pending |
+| S1P6 — Question at home | [Aiden_Section01_Page06_Home_Question.png](https://drive.google.com/file/d/13wPXBtNv7yCRjdHYs0sZtV88eWiMkSSp/view?usp=drivesdk) | New spread; independent QA passed; Greg's review pending |
+| S1P7 — First lesson | [Aiden_Section01_Page07_First_Lesson.png](https://drive.google.com/file/d/1Az1MSucuNDBWTHyuyO1coi6yUKcteWwG/view?usp=drivesdk) | Production reviewed; retained preferred art; revised copy/layout pending Greg's review |
+| Seven-spread PDF | [Aiden_Section01_Complete.pdf](https://drive.google.com/file/d/1HmiGP1jOBqN87iUZ6pVkiiVMGWuTVIfQ/view?usp=drivesdk) | Complete reading copy; verified; Greg's review pending |
+
+The PDF is a reading copy, not a print master; retained fruit art has inherited softer resolution. Current manuscript wording is used, with the earlier approved spread 2 copyedit and the recorded spread 7 science correction. Original source artwork and Google Doc were preserved.
 
 ## Section 3 — pages 1–5 accepted; page 6 revision pending
 

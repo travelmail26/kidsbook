@@ -4,7 +4,7 @@ The [live storyboard](https://docs.google.com/document/d/1f6nbea5M4BJEsfQdq17Svx
 
 | Reference or scene | Location | Status |
 | --- | --- | --- |
-| Style example | [Google Drive image](https://drive.google.com/file/d/1d39dek0SE4iS7rGtt_cE5ykl3-e5_1bf/view?usp=sharing) | Linked by the storyboard; not yet inspected |
+| Style example | [Google Drive image](https://drive.google.com/file/d/1d39dek0SE4iS7rGtt_cE5ykl3-e5_1bf/view?usp=sharing) | Linked by the storyboard; inspected as the original matte style reference during production |
 | Opening: rambunctious Aiden | `kids book/Aiden_page_01.png` | Exact source-listed path; approved layout according to notes; local file not present |
 | Aiden invites Trevor to climb | Recovered approved image (local workspace path: `assets/references/approved-page-02.png`; binary is not Git-hosted); source label `kids book/Aiden_page_02.png` | Retrieved and visually inspected 2026-09-05; live source labels layout approved. Use character reference only: image text differs from current manuscript |
 | Trevor stops to eat fruit | Recovered approved image (local workspace path: `assets/references/approved-page-03.png`; binary is not Git-hosted); source label `kids book/Aiden_page_03.png` | Retrieved and visually inspected 2026-09-05; live source labels layout approved; embedded wording matches current page 3 text |
@@ -25,6 +25,23 @@ For further narrative background, open the [additional details document](https:/
 | 2 — Grandma teaching signs | [Aiden_Spread_02_Grandma_Signing_Approved.png](https://drive.google.com/file/d/10g6DP9YSiHc-gkeJ5FR0h7SkEa5evPCT/view?usp=drivesdk) | Completed after three refinement passes, visually reviewed, accepted by Greg; upload verified |
 
 Both PNGs are 1536 × 1024 with separate left botanical text and right character illustration. Spread 2 is the grandmother/signing memory, not the later tree-climbing invitation labeled Aiden_page_02.png in the older source. The original approved artwork and source Google Doc remain unchanged. The images are hosted in Google Drive, not stored as repository files.
+
+## Section 1 — complete reading copy; new work awaiting review
+
+Seven spreads run from Aiden's introduction through his first skull/chewing lesson; the inserted grandmother memory explains the extra spread. Spreads 1–2 are reused unchanged. Approved original art is retained in spreads 3, 4, and 7; spreads 5–6 are new. **All seven passed independent production QA; new work is not yet approved by Greg.** See [exact text and production record](SECTION_01.md) and [full quality review](SECTION_01_QA.md).
+
+| Spread | Google Drive asset | Status |
+| --- | --- | --- |
+| S1P1 — Introduction | [Aiden_Spread_01_Introduction_Approved.png](https://drive.google.com/file/d/19Q9AjIchhOGxEqLWYzh_WxUkURgnyvFZ/view?usp=drivesdk) | Unchanged; previously approved |
+| S1P2 — Grandma teaching signs | [Aiden_Spread_02_Grandma_Signing_Approved.png](https://drive.google.com/file/d/10g6DP9YSiHc-gkeJ5FR0h7SkEa5evPCT/view?usp=drivesdk) | Unchanged; previously approved |
+| S1P3 — New friend | [Aiden_Section01_Page03_New_Friend.png](https://drive.google.com/file/d/1UDn59i3q7OPN2xXd64vt1O4H1pq-0Wni/view?usp=drivesdk) | Production reviewed; retained approved art; new layout pending Greg's review |
+| S1P4 — Trevor eats | [Aiden_Section01_Page04_Trevor_Eats.png](https://drive.google.com/file/d/1cTxvcO_iXFVGPuYYMEmnKdxqRdy9R8hS/view?usp=drivesdk) | Production reviewed; retained approved art; new layout pending Greg's review |
+| S1P5 — Tired cheeks | [Aiden_Section01_Page05_Tired_Cheeks.png](https://drive.google.com/file/d/1Av72p5QW72mTww4q0aRi8YBiBaaXNM3K/view?usp=drivesdk) | New spread; independent QA passed; Greg's review pending |
+| S1P6 — Question at home | [Aiden_Section01_Page06_Home_Question.png](https://drive.google.com/file/d/13wPXBtNv7yCRjdHYs0sZtV88eWiMkSSp/view?usp=drivesdk) | New spread; independent QA passed; Greg's review pending |
+| S1P7 — First lesson | [Aiden_Section01_Page07_First_Lesson.png](https://drive.google.com/file/d/1Az1MSucuNDBWTHyuyO1coi6yUKcteWwG/view?usp=drivesdk) | Production reviewed; retained preferred art; revised copy/layout pending Greg's review |
+| Seven-spread PDF | [Aiden_Section01_Complete.pdf](https://drive.google.com/file/d/1HmiGP1jOBqN87iUZ6pVkiiVMGWuTVIfQ/view?usp=drivesdk) | Complete reading copy; verified; Greg's review pending |
+
+The PDF is a reading copy, not a print master; retained fruit art has inherited softer resolution. Current manuscript wording is used, with the earlier approved spread 2 copyedit and the recorded spread 7 science correction. Original source artwork and Google Doc were preserved.
 
 ## Section 3 — pages 1–5 accepted; page 6 revision pending
 

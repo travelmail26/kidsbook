@@ -2,6 +2,15 @@
 
 For the logging subagent. The main agent uses the three recent summaries in [AGENTS.md](AGENTS.md) and must not read this history.
 
+## 2026-09-05T17:34:39Z — Section 1 completed for review and uploaded
+
+- Greg requested the first section from introduction through the first lesson, following design/illustration instructions and reporting assets to GitHub and Drive. Completed seven spreads (including the inserted grandmother memory) and a seven-spread reading PDF; new production work awaits Greg's review.
+- Reused the approved introduction and grandmother spreads unchanged. Retained original approved tree-invitation and fruit-eating art and the preferred skull-lesson art, with new botanical left pages and exact typesetting. Used current signed-invitation wording; created new tired-cheeks and home-question illustrations with illustration agents and actual parent-photo references.
+- The first-lesson production copy now distinguishes large canine teeth and powerful chewing muscles from back teeth that crush/mash raw foods. A separate science reviewer checked the correction with primary research; no claim that chimpanzees never tire was added. Source Google Doc and retained artwork were not redrawn or rewritten.
+- The independent reviewer passed all seven actual spreads for production delivery against source copy, character/style references, and relevant photos. The main agent verified seven ordered 12 × 8 inch PDF spreads and new PNG/PDF upload names, MIME types, folder membership, and matching byte sizes. New PNGs are 1536 × 1024. Retained fruit art has inherited softer resolution; the PDF is a reading copy, not a print master; retained skull art was not newly anatomically certified.
+- Added SECTION_01.md with all eight linked assets, exact seven passages, provenance/source alignment, science correction/sources, and verification; added SECTION_01_QA.md with the full independent report and publication checks. Updated TOC.md, ILLUSTRATIONS.md, RUNNING_NOTES.md, TODO.md, and ASSET_STATUS.md with direct Drive paths, completed production tasks, and user-review-pending status. Completion logging updated CHANGELOG.md and latest three AGENTS.md summaries.
+- Preserved Greg's current feedback: Section 3 Option B is retained only provisionally; both alternatives still need revisions and are not accepted precedent for style, anatomy, characters, or future illustrations. Section 3 pages 1–5 remain accepted; no Section 3 art/copy/PDF changed. No new approval was inferred; no reference photos or image binaries were published in GitHub.
+
 ## 2026-09-05T17:25:45Z — Diagram B retained provisionally; no accepted precedent
 
 - Greg requested keeping the second (tabletop) option for now and explicitly said the alternatives still need revisions and are not accepted precedent. Option B is provisionally retained; neither alternative is an approved final spread, style reference, anatomy reference, or character-rendering precedent. Option A remains unselected.
