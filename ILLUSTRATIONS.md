@@ -1,6 +1,6 @@
 # Illustration locations
 
-The [live storyboard](https://docs.google.com/document/d/1f6nbea5M4BJEsfQdq17SvxFLUpuSjPrzEQhwimhki0I/edit?tab=t.0) controls current illustration instructions and approvals. This index records locations mentioned there; it does not certify that the assets have been downloaded or visually inspected.
+The [live storyboard](https://docs.google.com/document/d/1f6nbea5M4BJEsfQdq17SvxFLUpuSjPrzEQhwimhki0I/edit?tab=t.0) controls current illustration instructions and approvals. This index distinguishes historical source references from the verified final uploads below.
 
 | Reference or scene | Location | Status |
 | --- | --- | --- |
@@ -14,3 +14,12 @@ The [live storyboard](https://docs.google.com/document/d/1f6nbea5M4BJEsfQdq17Svx
 The source's `kids book/` prefix is preserved verbatim. Its storage root is unverified; do not silently interpret it as a directory in this repository. Add verified repository-relative paths here as artwork is imported or created, including whether each asset is draft or user-approved. Never infer approval from a filename.
 
 For further narrative background, open the [additional details document](https://docs.google.com/document/d/1ZHkCaBrgwQuSyadjpqLLey4uA-gJg3IA467xGOrkZ8A/edit?tab=t.0) only when needed or explicitly requested.
+
+## Verified final uploads — approved 2026-09-05
+
+| Spread | Google Drive asset | Status |
+| --- | --- | --- |
+| 1 — Aiden’s introduction | [Aiden_Spread_01_Introduction_Approved.png](https://drive.google.com/file/d/19Q9AjIchhOGxEqLWYzh_WxUkURgnyvFZ/view?usp=drivesdk) | Completed, visually reviewed, accepted by Greg; upload verified |
+| 2 — Grandma teaching signs | [Aiden_Spread_02_Grandma_Signing_Approved.png](https://drive.google.com/file/d/10g6DP9YSiHc-gkeJ5FR0h7SkEa5evPCT/view?usp=drivesdk) | Completed after three refinement passes, visually reviewed, accepted by Greg; upload verified |
+
+Both PNGs are 1536 × 1024 with separate left botanical text and right character illustration. Spread 2 is the grandmother/signing memory, not the later tree-climbing invitation labeled Aiden_page_02.png in the older source. The original approved artwork and source Google Doc remain unchanged. The images are hosted in Google Drive, not stored as repository files.
