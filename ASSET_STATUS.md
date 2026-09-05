@@ -1,42 +1,27 @@
-# Asset completion status
+# Selected artwork
 
-Use this register with TODO.md before assigning work. Stable scene IDs include the sequence because the storyboard repeats page numbers. A file is complete only when it exists, opens, matches the source, and passes visual review. User approval is recorded separately.
+The [public reader](https://aiden-hungry-friend.travelmail26.chatgpt.site) contains the 19 selected spreads. Site version 2 was published from source revision `4841cceee659286f054a37eee57352cab15e5e6f`. Creative review remains open; publication does not imply print readiness.
 
-**Section two:** [six-page completion register](SECTION_02_STATUS.md) and [machine-readable asset catalog](assets/section-02/manifest.json) identify selected originals, independent QA, Drive delivery, and remaining actions. The Mac is unlocked and existing browser results have been recovered. Consult the register before generating anything further; user approval is separate from independent quality review.
+| Scene | Selected image |
+| --- | --- |
+| S1P1 | [PNG](assets/section-01/page-01/spread-v02.png) |
+| S1P2 | [PNG](assets/section-01/page-02/spread-v02.png) |
+| S1P3 | [PNG](assets/section-01/page-03/spread-v02.png) |
+| S1P4 | [PNG](assets/section-01/page-04/spread-v02.png) |
+| S1P5 | [PNG](assets/section-01/page-05/spread-v02.png) |
+| S1P6 | [PNG](assets/section-01/page-06/spread-v02.png) |
+| S1P7 | [PNG](assets/section-01/page-07/spread-v07.png) |
+| S2P1 | [PNG](assets/section-02/page-01/spread-v02.png) |
+| S2P2 | [PNG](assets/section-02/page-02/spread-v02.png) |
+| S2P3 | [PNG](assets/section-02/page-03/spread-v03.png) |
+| S2P4 | [PNG](assets/section-02/page-04/spread-v4.png) |
+| S2P5 | [PNG](assets/section-02/page-05/spread-v3.png) |
+| S2P6 | [PNG](assets/section-02/page-06/spread-v03.png) |
+| S3P1 | [PNG](assets/section-03/page-01/spread-v02.png) |
+| S3P2 | [PNG](assets/section-03/page-02/spread-v02.png) |
+| S3P3 | [PNG](assets/section-03/page-03/spread-v02.png) |
+| S3P4 | [PNG](assets/section-03/page-04/spread-v02.png) |
+| S3P5 | [PNG](assets/section-03/page-05/spread-v02.png) |
+| S3P6 | [PNG](assets/section-03/page-06/spread-v02.png) |
 
-| Scene ID | Scene | Production status | User approval | Assets and evidence | Next action |
-| --- | --- | --- | --- | --- | --- |
-| opening-page-03 | Trevor stops to eat fruit (S1P4) | Full spread production reviewed; uploaded and verified | Original art approved; new typesetting awaits Greg's review | [Current selected PNG](https://drive.google.com/file/d/1cTxvcO_iXFVGPuYYMEmnKdxqRdy9R8hS/view?usp=drivesdk); [Section 1 provenance/text](SECTION_01.md); [QA](SECTION_01_QA.md) | Receive review; reuse current output; softer original art is a reading-copy limitation |
-| opening-page-04 | Aiden imitates chewing; tired cheeks (S1P5) | New built-in image-generation spread independently reviewed; uploaded and verified | Greg's review pending | [Current selected PNG](https://drive.google.com/file/d/1Av72p5QW72mTww4q0aRi8YBiBaaXNM3K/view?usp=drivesdk); [Section 1 text/provenance](SECTION_01.md); [QA](SECTION_01_QA.md) | Receive review; reuse current output; historical browser prompt is not this asset's production method |
-
-## Section 1 — complete reading-copy delivery
-
-The current [seven-spread register](SECTION_01.md) provides the selected Drive assets, exact text, retained-art provenance, science correction, and publication verification; [independent QA](SECTION_01_QA.md) passed all seven. Spreads 1–2 are unchanged approved uploads; new production awaits Greg's review. Stable legacy IDs above map by scene to S1P4 and S1P5, not by delivered spread number. The [reading PDF](https://drive.google.com/file/d/1HmiGP1jOBqN87iUZ6pVkiiVMGWuTVIfQ/view?usp=drivesdk) contains seven ordered spreads. Section 3 B remains provisional; both diagram studies need revisions and are not accepted precedent.
-
-## Historical browser handoff — superseded for Section 1
-
-**Historical Section 2 handoff; current completion is recorded above.** See [SECTION_02_BRIEF.md](SECTION_02_BRIEF.md) for fresh source directions and [section-two quality review](assets/section-02/QUALITY_REVIEW.md). Opening-section tasks below are deferred by the new section-two request. The user's latest request explicitly authorizes necessary reference use in ChatGPT, completed-asset Drive upload, and Git updates for this work.
-
-Both agents verified visible model `6 Pro`, picker `Latest`, power `Pro, 5 of 5`. Page 3 tab: `1169344824`; page 4 tab: `1169344825`; Chrome browser `2`. Both are at ChatGPT with no submitted image prompt reported. These are temporary browser IDs, not completed asset paths. Recheck current state before resuming.
-
-Prepared page 3 instructions: [exact prompt](prompts/page-03/initial.md) and [agent handoff report](assets/page-03/STATUS.md). Page 4 instructions: [exact prompt](prompts/page-04/initial.md).
-
-The earlier opening-section run reported an upload authorization blocker. The current user explicitly authorizes the section-two workflow. Current investigation also identifies a separate direct-filechooser limitation: Chrome extension file URL access. Use the supported native picker fallback with coordinated UI ownership; do not conflate a generic `Not allowed` result with confirmed approval-review reasoning.
-
-## Status rules for orchestrators
-
-- Check the live storyboard and referenced files before each assignment. This register covers only the scenes listed; it does not imply the rest of the book is complete.
-- Preserve the source-approved original. Put revisions in the scene's own folder with versioned filenames; identify exactly one current selected version after review.
-- Record the actual local asset paths, dimensions, source revision/date, exact prompt, ChatGPT conversation URL, observed model, and review result in each scene's report. Never use temporary download links as the only asset location.
-- If blocked, state what is missing and the next action. Use `in progress`, `needs revision`, `review passed`, or `blocked` for production; use explicit source evidence for `user approved`.
-- Before marking TODO complete, verify every selected path exists and inspect the image. A prompt sent, a preview visible, and a file downloaded are different steps.
-- Reuse a reviewed output for further work. Do not generate another copy merely because a new agent takes over.
-
-## Public draft website
-
-- **Public reader:** [Aiden and His Hungry Friend](https://aiden-hungry-friend.travelmail26.chatgpt.site).
-- **User feedback:** Greg confirmed “this works” for the two-spread scrolling preview and requested that the website be recorded in assets, TOC, and agent instructions.
-- **Publication plan:** Publish the initial draft on this existing public website.
-- **Currently live:** Two approved opening spreads — introduction and Grandma teaching signs. The full initial draft is not yet published there.
-- **Assets:** See [website image URLs and original Drive files](ILLUSTRATIONS.md#public-draft-website). Images retain original 1536 × 1024 proportions and separate text/illustration halves.
-- **Next action:** Expand the same reader with the initial draft in book order, maintaining each asset's current review/approval status. This feedback confirms the preview works; it does not approve all unpublished artwork or settle final orientation.
+Image dimensions and hashes are in [the asset manifest](assets/manifest.json). Previous image versions are separate from these selections. The detailed editorial records remain outside this public documentation.

@@ -1,0 +1,138 @@
+{
+  "selected_spreads": 19,
+  "assets": [
+    {
+      "scene_id": "S1P1",
+      "path": "assets/section-01/page-01/spread-v02.png",
+      "sha256": "867840bca19534cf804cfe16c595686212cbfc4f85e77d93cb993ee685b5e12d",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "scene_id": "S1P2",
+      "path": "assets/section-01/page-02/spread-v02.png",
+      "sha256": "db47966bb6e74a7c2c28e94a10a6c5121608ddbe1e16cf5b96f748b2298ff021",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "scene_id": "S1P3",
+      "path": "assets/section-01/page-03/spread-v02.png",
+      "sha256": "04ce89412e8b4ca7120c1595c0d1f68df9650956cf429c80e7229adafba1d9bc",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "scene_id": "S1P4",
+      "path": "assets/section-01/page-04/spread-v02.png",
+      "sha256": "6d7a37964a6fbef4d727d0e5364b4e9dd4e1e897bfaed56c4c77b85f42547dad",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "scene_id": "S1P5",
+      "path": "assets/section-01/page-05/spread-v02.png",
+      "sha256": "ae2350478b2754a8969f3cbe137804594c48ba0720407de3d9644a13872e0f72",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "scene_id": "S1P6",
+      "path": "assets/section-01/page-06/spread-v02.png",
+      "sha256": "c554fefecbd17ec080408b8b50f55979f97a4096a8102dc40b007a4f11c00af7",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "scene_id": "S1P7",
+      "path": "assets/section-01/page-07/spread-v07.png",
+      "sha256": "25fdf40978be557754c6a2ef6833f0368265a8389159eadbb4acad10f335d19f",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "scene_id": "S2P1",
+      "path": "assets/section-02/page-01/spread-v02.png",
+      "sha256": "4662ea694dcc9a529621936344e09bdfe02207c7e62a7f91cdb22cf3ccb91705",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "scene_id": "S2P2",
+      "path": "assets/section-02/page-02/spread-v02.png",
+      "sha256": "db603ddc00db7c8905aea4844689f726845a3821744295da2b4f050ef36f1476",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "scene_id": "S2P3",
+      "path": "assets/section-02/page-03/spread-v03.png",
+      "sha256": "08a20342fd54be38bf72d39892debac232d4286ff71e232ba95f727a0b375b2f",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "scene_id": "S2P4",
+      "path": "assets/section-02/page-04/spread-v4.png",
+      "sha256": "096ab84f47ceb31303bfdde9509b1d5ef7fc92d959e5808c4490e5220f86b6a1",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "scene_id": "S2P5",
+      "path": "assets/section-02/page-05/spread-v3.png",
+      "sha256": "5da4c6ec889face550d728c27aaf9afd3a613251fb2056f59e48af7c069659d5",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "scene_id": "S2P6",
+      "path": "assets/section-02/page-06/spread-v03.png",
+      "sha256": "fdff444a69c72fa508c5f718043e4aaf2a9ee5def9f6ea1a415fdbc5a3941228",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "scene_id": "S3P1",
+      "path": "assets/section-03/page-01/spread-v02.png",
+      "sha256": "5b910a3823000d3ab3ffc078c48ba39dc384527513af928d1a5cf0ad75cede88",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "scene_id": "S3P2",
+      "path": "assets/section-03/page-02/spread-v02.png",
+      "sha256": "f6b34e1daa9c61ab678b8005c915e71c96cc54a9a1ac4fc0231020b3d3aca33d",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "scene_id": "S3P3",
+      "path": "assets/section-03/page-03/spread-v02.png",
+      "sha256": "34987c8cf2f367874fae925bcc5ed42563b2ba761f890248702c08fbdc37f2d3",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "scene_id": "S3P4",
+      "path": "assets/section-03/page-04/spread-v02.png",
+      "sha256": "7bc4bb62187e2920a67fea10e311b62d0ac4e731193fcb49215a959555eb725e",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "scene_id": "S3P5",
+      "path": "assets/section-03/page-05/spread-v02.png",
+      "sha256": "4d3e4c2dca9b4915faa319ca85743fceb6ba20cdc0ac82d2fe443bf5b204c790",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "scene_id": "S3P6",
+      "path": "assets/section-03/page-06/spread-v02.png",
+      "sha256": "7b4586a350253980a23514841c7dec4ceecd990484b9276a0e52c27b3330c5ce",
+      "width": 1536,
+      "height": 1024
+    }
+  ]
+}

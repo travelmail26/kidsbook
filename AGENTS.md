@@ -1,26 +1,3 @@
-# Agent instructions
+# Public project guidance
 
-This is the primary instruction document for writing this children's book. Read only files necessary for the current task to avoid instruction overload.
-
-- The [live Google Doc](https://docs.google.com/document/d/1f6nbea5M4BJEsfQdq17SvxFLUpuSjPrzEQhwimhki0I/edit?tab=t.0) is ground truth and may be edited by the user at any time. Recheck the relevant section before work; do not treat cached notes as current approvals. Follow explicit user directions and flag material conflicts.
-- Read this file, then use [TOC.md](TOC.md) to select only necessary files or source sections. Do not bulk-read the repository, linked background, or historical notes.
-- Before attempting a task, locate and inspect the relevant existing assets, resources, and approved work through TOC.md and the source of truth. Reuse or extend suitable existing work to avoid duplication, and match the approved quality, style, and content. Verify actual assets and approval status; if a reference is missing or inaccessible, record the gap rather than inventing a replacement or claiming fidelity.
-- Check [TODO.md](TODO.md) before starting work, select the relevant unfinished item, and update its status after verification. Keep remaining work and blockers current; a checked box means completed and verified, not merely planned or awaiting approval.
-- Consult [ASSET_STATUS.md](ASSET_STATUS.md) before assigning scene work. Use its stable scene IDs, verified asset paths, selected versions, and pending actions; keep production/review status separate from user approval. Update the register and TODO.md together after reviewing and saving assets.
-- Locate actual reference images through [ILLUSTRATIONS.md](ILLUSTRATIONS.md). Preserve approved work, character continuity, and the separate left text/right illustration layout. Verify images before claiming to have inspected them.
-- Keep [RUNNING_NOTES.md](RUNNING_NOTES.md) brief and current: active work, confirmed preferences, feedback, and unresolved questions. Replace superseded notes rather than accumulating history. Keep key paths in TOC.md current.
-- After each completed task, if subagents are available, delegate a brief completion record to a logging subagent. Supply the outcome, changed paths, verification, and user preferences or feedback from the current task. The subagent owns [CHANGELOG.md](CHANGELOG.md) and the latest-changes section below; it must preserve others' edits.
-- The logging subagent records an ISO 8601 timestamp with timezone, a concise change summary, and any explicit user preferences/feedback. Distinguish requests from completed work; never invent feedback. It updates the section below to the **three most recent changelog entries**, newest first (all entries if fewer than three exist).
-- **The main agent must not read CHANGELOG.md.** Use the three summaries below for recent context. If subagents are unavailable, append a completion entry without reading history and refresh the three summaries using this file. A user request to update the changelog at task end follows the same procedure. Do not recursively delegate logging of the logging task itself.
-
-## Latest changes
-
-- **2026-09-05T17:52:46+00:00 — Section 2 actual PNG assets published to Git:** This commit includes all six selected PNG originals with paired Git/Drive paths and manifest hashes, fulfilling the explicit request for actual Git assets. Existing Drive copies reverified; user artwork approval pending. Concurrent sections and preview preserved.
-- **2026-09-05T17:49:23+00:00 — Section 2 Git asset publication prepared:** User requested actual PNGs in Git alongside verified Drive copies. Added six paired asset paths and binary-publication tracking; push/hash verification pending. Artwork approval remains pending; concurrent sections preserved.
-- **2026-09-05T17:34:39Z — Section 1 completed for review:** Seven spreads from introduction through the first skull/chewing lesson passed independent production QA; five new production PNGs and a verified seven-spread PDF were uploaded, with two approved uploads reused. Added exact copy, retained-art provenance, science correction, full QA, and asset paths. New work awaits Greg's review; Section 3 B remains provisional and not accepted precedent.
-
-## Initial draft website publication
-
-Greg confirmed that the scrolling preview works and directed that the initial draft be published on the existing [public book website](https://aiden-hungry-friend.travelmail26.chatgpt.site). Use this website for the initial draft reading/review copy and keep its URL and published asset status current in TOC.md, ILLUSTRATIONS.md, and ASSET_STATUS.md. Reuse the existing Sites project `appgprj_6a9c527935588191b9d01d46559377d2`; do not create a replacement site. Follow the Sites skills for updates and publication.
-
-At the time of this instruction, only the two approved opening spreads (Aiden’s introduction and Grandma teaching signs) are live. Publishing the full initial draft is the plan, not a completed publication. Preserve the separate left text/right illustration layout and original image proportions; the reader supports vertical scrolling and phone rotation/zoom. Keep creative approval status separate from website publication status.
+Use [TOC.md](TOC.md) to locate current artwork. Preserve image bytes and versioned paths. Do not infer artwork approval or reuse rights from publication. Keep private working notes, personal reference material and service metadata outside public updates.
