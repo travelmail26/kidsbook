@@ -2,6 +2,15 @@
 
 For the logging subagent. The main agent uses the three recent summaries in [AGENTS.md](AGENTS.md) and must not read this history.
 
+## 2026-09-05T15:59:14Z — Section 3 completed, independently reviewed, and uploaded
+
+- User requested all pages of the cooked-meal and digestive-differences section, independent QA, upload of passing assets, and GitHub paths/completion tracking. Upload authorization is recorded; creative approval has not been given. Status: completed, independent QA passed; user feedback pending.
+- Completed six 1536 × 1024 text-left/illustration-right spreads using outdoor, lunch, and parents illustration agents with inspected Grandpa, Dad, Mom, Aiden, and approved style references. Refined adult cartoon likenesses and page 6 geometry. Independent visual reviewer passed all six final selected spreads; a separate science reviewer passed the adapted dialogue and actual qualitative diagram.
+- Uploaded all six final PNGs and the six-spread reading PDF to the verified kids book Drive folder. Main-agent verification checked filenames, PNG/PDF MIME types, parent folder, byte sizes, all six ordered PDF pages, selected artwork inclusion, and exact vector diagram labels.
+- Preserved the cooking/gratitude ending while correcting “Alien” to Aiden, replacing the broad larger-organs claim with specific small-intestine/nutrient and roomier-colon explanations, omitting unsupported numeric species length ratios, labeling the schematic not to scale, and clarifying that digestion continues during play. The precise diagram was drawn programmatically; source evidence and limits are recorded in SECTION_03.md.
+- Added SECTION_03.md (exact six passages, assets, science edits/sources, production record) and SECTION_03_QA.md (independent review and publication verification). Updated TOC.md, RUNNING_NOTES.md, and ILLUSTRATIONS.md with final Drive links, completed tasks, and pending user-feedback status; resolved the anatomy question for this qualitative section. Completion logging updates CHANGELOG.md and AGENTS.md.
+- The live Google Doc and earlier approved artwork remain unchanged. Public GitHub contains documentation and asset links only; PNGs and the PDF remain in Google Drive, and no reference photos were published.
+
 ## 2026-09-05T15:28:24Z — Approved spreads uploaded to Google Drive
 
 - Greg said "good" about the first two spreads and explicitly requested upload to Google Drive, completed to-do notes, and TOC asset paths. Both final spreads are now user-approved.
