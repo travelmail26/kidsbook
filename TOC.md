@@ -95,3 +95,7 @@ All six selected spreads passed independent visual review and the parent agent's
 | 4 — Aiden Plays Alone | [PNG](assets/section-02/page-04/spread-v2.png) | [Drive](https://drive.google.com/file/d/1_IL19aG52IKXjy5YW5tObSIiSoD2FqxC/view?usp=drivesdk) |
 | 5 — Still Eating! | [PNG](assets/section-02/page-05/spread-v2.png) | [Drive](https://drive.google.com/file/d/1360xjsmRSGvFln9YvAGkHGCc9QWIyBpk/view?usp=drivesdk) |
 | 6 — The Chalkboard: Time Spent Eating | [PNG](assets/section-02/page-06/spread-v2.png) | [Drive](https://drive.google.com/file/d/1IoAQixmXdCAgc4cfjXeNLtnRaQOZiqCt/view?usp=drivesdk) |
+
+## Public draft website
+
+[Read the initial draft online](https://aiden-hungry-friend.travelmail26.chatgpt.site). Greg confirmed that the two-spread scrolling preview works and directed that the initial draft be published on this public website. Currently live: Aiden’s introduction and Grandma teaching signs; the full initial draft is the publication destination/plan, not yet reported as live. See [website assets and status](ASSET_STATUS.md#public-draft-website).
