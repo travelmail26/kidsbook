@@ -22,6 +22,8 @@ The [public reader](https://aiden-hungry-friend.travelmail26.chatgpt.site) conta
 | S3P3 | [PNG](assets/section-03/page-03/spread-v02.png) |
 | S3P4 | [PNG](assets/section-03/page-04/spread-v02.png) |
 | S3P5 | [PNG](assets/section-03/page-05/spread-v02.png) |
-| S3P6 | [PNG](assets/section-03/page-06/spread-v02.png) |
+| S3P6 | [PNG](assets/section-03/page-06/illustration-v03-user.png) |
 
 Image dimensions and hashes are in [the asset manifest](assets/manifest.json). Previous image versions are separate from these selections. The detailed editorial records remain outside this public documentation.
+
+The final illustration was replaced by the supplied user-selected image. The website retains the earlier text panel alongside it. The previous full spread is historical, not the active final illustration.
