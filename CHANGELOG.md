@@ -2,6 +2,14 @@
 
 For the logging subagent. The main agent uses the three recent summaries in [AGENTS.md](AGENTS.md) and must not read this history.
 
+## 2026-09-05T17:09:36Z — Page 6 simplified alternatives; selection pending
+
+- Greg accepted Section 3 pages 1–5 and rejected the prior digestive diagram: torso compression, incorrect proportions (intestines near shoulders), excessive complexity, poor drawing, and sloppy gradient fills. Requested radical simplification, no torso outlines, realistic unobscured forms, varied digestive-tract/poster scale, faithful layered matte brushstrokes, and only Dad and Aiden.
+- Produced and refined two illustration-only design studies: A large wall poster and B smaller tabletop poster. Both remove torso outlines and use a simplified Human/Chimpanzee comparison with Dad and Aiden only. Dad's cartoon treatment was refined in both; B received an additional reduction in gloss and folds. The independent review_diagram_options subagent judged both ready to show as alternatives, with B stronger in simplification; this is visual review, not anatomical measurement certification.
+- Uploaded [Option A](https://drive.google.com/file/d/101kVASRMEiXKmaHmFqNlDnZ7kY-moH0g/view?usp=drivesdk) and [Option B](https://drive.google.com/file/d/1KuK-96mB2EeuL43ILoKC6_4Z1IIvIV4I/view?usp=drivesdk). Parent verified names, PNG MIME types, kids book folder membership, and byte sizes A 2,226,855 / B 2,252,936. Assets are design studies awaiting Greg's selection, not approved final replacement spreads.
+- Updated RUNNING_NOTES.md, TOC.md, ILLUSTRATIONS.md, SECTION_03.md, and SECTION_03_QA.md: pages 1–5 accepted; old page 6 diagram rejected; two new linked options pending selection; old page 6 and compiled PDF marked superseded review copies. Preserved historical QA and source text. Next production step is selecting an option, reconciling existing Mom-and-Dad copy with the requested Dad-and-Aiden scene, and rebuilding/verifying the final spread and PDF.
+- Earlier approved opening spreads and source Google Doc remain unchanged. No narrative rewrite, replacement full spread, or replacement PDF was made in this exploration; no reference photos or image binaries were published in GitHub. Completion record and latest three summaries updated by logging subagent.
+
 ## 2026-09-05T15:59:14Z — Section 3 completed, independently reviewed, and uploaded
 
 - User requested all pages of the cooked-meal and digestive-differences section, independent QA, upload of passing assets, and GitHub paths/completion tracking. Upload authorization is recorded; creative approval has not been given. Status: completed, independent QA passed; user feedback pending.
