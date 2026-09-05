@@ -78,3 +78,14 @@ For current production, selected versions, and next actions, check [ASSET_STATUS
 ## Section 2 — time and primates
 
 All six selected spreads passed independent visual review and the parent agent's inspection. All six PNG uploads were verified by Drive metadata (MIME type, bytes, and parent); details are tracked in [publication record](assets/section-02/PUBLICATION.md); user creative approval remains pending. See the [six-page status and asset links](SECTION_02_STATUS.md), [source brief](SECTION_02_BRIEF.md), and [quality review](assets/section-02/QUALITY_REVIEW.md). Selected image binaries remain local and in the [Section 2 Drive folder](https://drive.google.com/drive/folders/1wm8GxfQHEoLbV9dzOAID2QFJzfQI4Rzz), outside GitHub.
+
+## Public draft website
+
+[Public book reader](https://aiden-hungry-friend.travelmail26.chatgpt.site) — Greg confirmed the scrolling preview works. The initial draft will be published on this website.
+
+| Live spread | Website asset | Original |
+| --- | --- | --- |
+| Aiden’s introduction | [PNG](https://aiden-hungry-friend.travelmail26.chatgpt.site/assets/spread-01.png) | [Approved Drive PNG](https://drive.google.com/file/d/19Q9AjIchhOGxEqLWYzh_WxUkURgnyvFZ/view) |
+| Grandma teaching signs | [PNG](https://aiden-hungry-friend.travelmail26.chatgpt.site/assets/spread-02.png) | [Approved Drive PNG](https://drive.google.com/file/d/10g6DP9YSiHc-gkeJ5FR0h7SkEa5evPCT/view) |
+
+Both published files are unchanged 1536 × 1024 spreads, with left text/right illustration, uncropped proportions, vertical scrolling, and browser pinch zoom. Website asset paths belong to the Sites project, not this GitHub repository. The full initial draft has not yet been added to the reader; retain individual artwork approval statuses when expanding it.
