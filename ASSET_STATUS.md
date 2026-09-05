@@ -31,3 +31,12 @@ The earlier opening-section run reported an upload authorization blocker. The cu
 - If blocked, state what is missing and the next action. Use `in progress`, `needs revision`, `review passed`, or `blocked` for production; use explicit source evidence for `user approved`.
 - Before marking TODO complete, verify every selected path exists and inspect the image. A prompt sent, a preview visible, and a file downloaded are different steps.
 - Reuse a reviewed output for further work. Do not generate another copy merely because a new agent takes over.
+
+## Public draft website
+
+- **Public reader:** [Aiden and His Hungry Friend](https://aiden-hungry-friend.travelmail26.chatgpt.site).
+- **User feedback:** Greg confirmed “this works” for the two-spread scrolling preview and requested that the website be recorded in assets, TOC, and agent instructions.
+- **Publication plan:** Publish the initial draft on this existing public website.
+- **Currently live:** Two approved opening spreads — introduction and Grandma teaching signs. The full initial draft is not yet published there.
+- **Assets:** See [website image URLs and original Drive files](ILLUSTRATIONS.md#public-draft-website). Images retain original 1536 × 1024 proportions and separate text/illustration halves.
+- **Next action:** Expand the same reader with the initial draft in book order, maintaining each asset's current review/approval status. This feedback confirms the preview works; it does not approve all unpublished artwork or settle final orientation.
