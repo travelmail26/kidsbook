@@ -10,5 +10,5 @@
 
 ## Latest changes
 
-- **2026-09-05T14:56:03Z — Public documentation publication:** User approved publishing source links. README is verified on GitHub main; publication of all six Markdown files via the GitHub connector is in progress.
+- **2026-09-05T14:57:49Z — Public documentation publication:** User approved publishing source links. All six Markdown files were published to GitHub main via the GitHub connector; the non-forced branch update succeeded. No illustrations imported.
 - **2026-09-05T14:43:57Z — Documentation scaffold:** Added README, TOC, agent guidance, running notes, illustration paths, and completion logging. Google Doc is ground truth; use selective reading and delegated logging. Scaffold link checks passed; no images imported.
