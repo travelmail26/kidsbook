@@ -4,11 +4,18 @@ Keep only current, task-relevant context here. Historical completion records bel
 
 ## Current work
 
-- First two storyboard spreads for *Aiden and His Hungry Friend* generated and visually reviewed; drafts await Greg's feedback and are not user-approved.
+- First two storyboard spreads for *Aiden and His Hungry Friend* completed, visually reviewed, and accepted by Greg on 2026-09-05; final PNGs uploaded to the kids book Google Drive folder.
 - Page-specific illustration agents used the inspected grandmother photograph and approved Aiden/style references. Both spreads separate left botanical handlettered text from right illustration; page 2 shows Aiden meeting Trevor and remembering Grandma teaching signs.
-- Page 1 retains its source text. Page 2 uses a lightly copyedited text in the draft image only; the source Google Doc and earlier approved artwork are unchanged.
+- Page 1 retains its source text. Page 2 uses a lightly copyedited text in the approved image only; the source Google Doc and earlier approved artwork are unchanged.
 - The live storyboard has three sequences: meeting and chewing; time spent eating; lunch, resting, and the cooking reveal. Recheck the source for current wording and sequence numbering before producing a page.
-- New artwork is in this conversation, not this repository. See [ILLUSTRATIONS.md](ILLUSTRATIONS.md) for source locations.
+- Final artwork is hosted in Google Drive. Direct asset paths are in [TOC.md](TOC.md#completed-and-approved-spreads) and [ILLUSTRATIONS.md](ILLUSTRATIONS.md).
+
+## Task checklist
+
+- [x] Construct and review spread 1 — Aiden’s introduction: [Aiden_Spread_01_Introduction_Approved.png](https://drive.google.com/file/d/19Q9AjIchhOGxEqLWYzh_WxUkURgnyvFZ/view?usp=drivesdk).
+- [x] Construct and refine spread 2 — Grandma teaching signs, using her actual photograph: [Aiden_Spread_02_Grandma_Signing_Approved.png](https://drive.google.com/file/d/10g6DP9YSiHc-gkeJ5FR0h7SkEa5evPCT/view?usp=drivesdk).
+- [x] Receive Greg’s acceptance and upload both final PNGs to Google Drive.
+- [x] Add verified asset links to TOC.md and ILLUSTRATIONS.md.
 
 ## Confirmed preferences and directions
 
