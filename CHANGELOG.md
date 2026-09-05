@@ -2,6 +2,13 @@
 
 For the logging subagent. The main agent uses the three recent summaries in [AGENTS.md](AGENTS.md) and must not read this history.
 
+## 2026-09-05T17:39:03Z — Public mobile book preview published
+
+- Greg explicitly requested a public placeholder Sites website for the kidsbook project, using two existing book images with vertical scrolling so he can review mobile portrait/landscape presentation and decide whether page orientation needs adjustment.
+- Published https://aiden-hungry-friend.travelmail26.chatgpt.site and verified deployment success and public access. Source is saved in a separate Sites-managed repository; this kidsbook repository records the preview URL and status.
+- Reused the approved introduction PNG (Drive 19Q9AjIchhOGxEqLWYzh_WxUkURgnyvFZ) and Grandma signing PNG (Drive 10g6DP9YSiHc-gkeJ5FR0h7SkEa5evPCT) unchanged, both 1536 × 1024. The reader displays full-width 3:2 spreads in vertical sequence, preserves text-left/illustration-right composition, supports native pinch zoom, and does not lock screen orientation.
+- Parent verification checked HTML asset references, image integrity/dimensions, deployment, and public access. No browser or physical-phone testing is claimed. Greg's mobile review and any final orientation/layout decision remain pending; no new creative acceptance was inferred.
+
 ## 2026-09-05T17:34:39Z — Section 1 completed for review and uploaded
 
 - Greg requested the first section from introduction through the first lesson, following design/illustration instructions and reporting assets to GitHub and Drive. Completed seven spreads (including the inserted grandmother memory) and a seven-spread reading PDF; new production work awaits Greg's review.
