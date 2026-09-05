@@ -1,0 +1,223 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-09-05T17:32:59.388927+00:00",
+  "section_id": "section-02",
+  "title": "Time and Primates",
+  "scope": "SEQUENCE TWO \u2014 THE NEXT DAY, six pages; other sections excluded",
+  "source_url": "https://docs.google.com/document/d/1f6nbea5M4BJEsfQdq17SvxFLUpuSjPrzEQhwimhki0I/edit",
+  "source_brief_path": "SECTION_02_BRIEF.md",
+  "drive_folder": {
+    "id": "1wm8GxfQHEoLbV9dzOAID2QFJzfQI4Rzz",
+    "url": "https://drive.google.com/drive/folders/1wm8GxfQHEoLbV9dzOAID2QFJzfQI4Rzz"
+  },
+  "pages": [
+    {
+      "scene_id": "section-02-page-01",
+      "section_page": 1,
+      "title": "Back to the Tree",
+      "production_status": "review_passed",
+      "selected_asset": {
+        "repository_path": "assets/section-02/page-01/spread-v01.png",
+        "absolute_path": "/Users/code/Documents/ChatGPT/kidsbook/assets/section-02/page-01/spread-v01.png",
+        "sha256": "c3717ca941544028e86afe42272cfc4570b0cf70ee000caf98b67e060987d7e4",
+        "bytes": 2312192,
+        "width": 1536,
+        "height": 1024,
+        "mime_type": "image/png"
+      },
+      "candidate_asset": null,
+      "source_path": "prompts/section-02/page-01/source.md",
+      "prompt_paths": [
+        "prompts/section-02/page-01/initial.md"
+      ],
+      "chatgpt_url": "https://chatgpt.com/c/6a9c3ab6-051c-83ea-9844-c0a3db4d33ee",
+      "model_evidence": "Chat surface; visible 6 Pro verified by production agent",
+      "quality_review": {
+        "status": "pass",
+        "evidence_path": "assets/section-02/QUALITY_REVIEW.md"
+      },
+      "user_approval": "pending",
+      "drive": {
+        "file_id": "123Dib_2dxKL4mRY3k1lH1zG_g9xYBixf",
+        "url": "https://drive.google.com/file/d/123Dib_2dxKL4mRY3k1lH1zG_g9xYBixf/view?usp=drivesdk",
+        "status": "uploaded_and_metadata_verified",
+        "evidence_path": "assets/section-02/PUBLICATION.md"
+      },
+      "next_action": "Await user review; preserve selected original."
+    },
+    {
+      "scene_id": "section-02-page-02",
+      "section_page": 2,
+      "title": "Eating Together",
+      "production_status": "review_passed",
+      "selected_asset": {
+        "repository_path": "assets/section-02/page-02/spread-v01.png",
+        "absolute_path": "/Users/code/Documents/ChatGPT/kidsbook/assets/section-02/page-02/spread-v01.png",
+        "sha256": "1b157e36f03b4a8005d8078ecdd0af2c6c4bcc152ac91ef168319d35b83aea7a",
+        "bytes": 2488597,
+        "width": 1536,
+        "height": 1024,
+        "mime_type": "image/png"
+      },
+      "candidate_asset": null,
+      "source_path": "prompts/section-02/page-02/source.md",
+      "prompt_paths": [
+        "prompts/section-02/page-02/initial.md"
+      ],
+      "chatgpt_url": "https://chatgpt.com/c/6a9c3b3a-ad10-83ea-bc56-96d94e2882c0",
+      "model_evidence": "Chat surface; visible 6 Pro verified by production agent",
+      "quality_review": {
+        "status": "pass",
+        "evidence_path": "assets/section-02/QUALITY_REVIEW.md"
+      },
+      "user_approval": "pending",
+      "drive": {
+        "file_id": "1fGzcnUkz88X238eCjkqC7grivXGYxKGF",
+        "url": "https://drive.google.com/file/d/1fGzcnUkz88X238eCjkqC7grivXGYxKGF/view?usp=drivesdk",
+        "status": "uploaded_and_metadata_verified",
+        "evidence_path": "assets/section-02/PUBLICATION.md"
+      },
+      "next_action": "Await user review; preserve selected original."
+    },
+    {
+      "scene_id": "section-02-page-03",
+      "section_page": 3,
+      "title": "Want to Play?",
+      "production_status": "review_passed",
+      "selected_asset": {
+        "repository_path": "assets/section-02/page-03/spread-v2.png",
+        "absolute_path": "/Users/code/Documents/ChatGPT/kidsbook/assets/section-02/page-03/spread-v2.png",
+        "sha256": "24ae216b6f03a9d97289afd9a581831f8ae22a2bd592d15188d84cd557e54e0a",
+        "bytes": 2527112,
+        "width": 1536,
+        "height": 1024,
+        "mime_type": "image/png"
+      },
+      "candidate_asset": null,
+      "source_path": "prompts/section-02/page-03/source.md",
+      "prompt_paths": [
+        "prompts/section-02/page-03/submitted.md",
+        "prompts/section-02/page-03/revision-01.md"
+      ],
+      "chatgpt_url": "https://chatgpt.com/c/6a9c3abd-10e0-83ea-8fc4-2475df1f7be1",
+      "model_evidence": "Chat surface; visible 6 Pro verified by production agent",
+      "quality_review": {
+        "status": "pass",
+        "evidence_path": "assets/section-02/QUALITY_REVIEW.md"
+      },
+      "user_approval": "pending",
+      "drive": {
+        "file_id": "1IU0g-N_vtSislynLr_-rzJHYHH3Rhstk",
+        "url": "https://drive.google.com/file/d/1IU0g-N_vtSislynLr_-rzJHYHH3Rhstk/view?usp=drivesdk",
+        "status": "uploaded_and_metadata_verified",
+        "evidence_path": "assets/section-02/PUBLICATION.md"
+      },
+      "next_action": "Await user review; preserve selected original."
+    },
+    {
+      "scene_id": "section-02-page-04",
+      "section_page": 4,
+      "title": "Aiden Plays Alone",
+      "production_status": "review_passed",
+      "selected_asset": {
+        "repository_path": "assets/section-02/page-04/spread-v2.png",
+        "absolute_path": "/Users/code/Documents/ChatGPT/kidsbook/assets/section-02/page-04/spread-v2.png",
+        "sha256": "9dd643c5209ecf6cb92188c780e7f85dd34306a6a47ee32540da1d4fd233211f",
+        "bytes": 2165482,
+        "width": 1536,
+        "height": 1024,
+        "mime_type": "image/png"
+      },
+      "candidate_asset": null,
+      "source_path": "prompts/section-02/page-04/source.md",
+      "prompt_paths": [
+        "prompts/section-02/page-04/submitted.md",
+        "prompts/section-02/page-04/revision-01.md"
+      ],
+      "chatgpt_url": "https://chatgpt.com/c/6a9c3b95-6a70-83ea-963c-3bcaf1bc9156",
+      "model_evidence": "Chat surface; visible 6 Pro verified by production agent",
+      "quality_review": {
+        "status": "pass",
+        "evidence_path": "assets/section-02/QUALITY_REVIEW.md"
+      },
+      "user_approval": "pending",
+      "drive": {
+        "file_id": "1_IL19aG52IKXjy5YW5tObSIiSoD2FqxC",
+        "url": "https://drive.google.com/file/d/1_IL19aG52IKXjy5YW5tObSIiSoD2FqxC/view?usp=drivesdk",
+        "status": "uploaded_and_metadata_verified",
+        "evidence_path": "assets/section-02/PUBLICATION.md"
+      },
+      "next_action": "Await user review; preserve selected original."
+    },
+    {
+      "scene_id": "section-02-page-05",
+      "section_page": 5,
+      "title": "Still Eating!",
+      "production_status": "review_passed",
+      "selected_asset": {
+        "repository_path": "assets/section-02/page-05/spread-v2.png",
+        "absolute_path": "/Users/code/Documents/ChatGPT/kidsbook/assets/section-02/page-05/spread-v2.png",
+        "sha256": "ec156e9d61f6e0dc580b652dbdd660e3cda270987a8cedc0e90e95c8dceb2b8e",
+        "bytes": 2583255,
+        "width": 1536,
+        "height": 1024,
+        "mime_type": "image/png"
+      },
+      "candidate_asset": null,
+      "source_path": "prompts/section-02/page-05/source.md",
+      "prompt_paths": [
+        "prompts/section-02/page-05/submitted-v1.md",
+        "prompts/section-02/page-05/revision-v2.md"
+      ],
+      "chatgpt_url": "https://chatgpt.com/c/6a9c3aad-afc4-83ea-a8b2-4c10a927f315",
+      "model_evidence": "Chat surface; visible 6 Pro verified by production agent",
+      "quality_review": {
+        "status": "pass",
+        "evidence_path": "assets/section-02/QUALITY_REVIEW.md"
+      },
+      "user_approval": "pending",
+      "drive": {
+        "file_id": "1360xjsmRSGvFln9YvAGkHGCc9QWIyBpk",
+        "url": "https://drive.google.com/file/d/1360xjsmRSGvFln9YvAGkHGCc9QWIyBpk/view?usp=drivesdk",
+        "status": "uploaded_and_metadata_verified",
+        "evidence_path": "assets/section-02/PUBLICATION.md"
+      },
+      "next_action": "Await user review; preserve selected original."
+    },
+    {
+      "scene_id": "section-02-page-06",
+      "section_page": 6,
+      "title": "The Chalkboard: Time Spent Eating",
+      "production_status": "review_passed",
+      "selected_asset": {
+        "repository_path": "assets/section-02/page-06/spread-v2.png",
+        "absolute_path": "/Users/code/Documents/ChatGPT/kidsbook/assets/section-02/page-06/spread-v2.png",
+        "sha256": "6b7ab7c3abbae38e072f0906ea09f4ee7f73e83f3133594baefc637f84daa0aa",
+        "bytes": 2340276,
+        "width": 1536,
+        "height": 1024,
+        "mime_type": "image/png"
+      },
+      "candidate_asset": null,
+      "source_path": "prompts/section-02/page-06/source.md",
+      "prompt_paths": [
+        "prompts/section-02/page-06/submitted-v1.md",
+        "prompts/section-02/page-06/revision-v2.md"
+      ],
+      "chatgpt_url": "https://chatgpt.com/c/6a9c5053-8a38-83e9-8eb9-7635be7b6757",
+      "model_evidence": "Chat surface; visible 6 Pro verified by production agent",
+      "quality_review": {
+        "status": "pass",
+        "evidence_path": "assets/section-02/QUALITY_REVIEW.md"
+      },
+      "user_approval": "pending",
+      "drive": {
+        "file_id": "1IoAQixmXdCAgc4cfjXeNLtnRaQOZiqCt",
+        "url": "https://drive.google.com/file/d/1IoAQixmXdCAgc4cfjXeNLtnRaQOZiqCt/view?usp=drivesdk",
+        "status": "uploaded_and_metadata_verified",
+        "evidence_path": "assets/section-02/PUBLICATION.md"
+      },
+      "next_action": "Await user review; preserve selected original."
+    }
+  ]
+}

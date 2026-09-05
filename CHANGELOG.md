@@ -16,6 +16,13 @@ For the logging subagent. The main agent uses the three recent summaries in [AGE
 - Updated RUNNING_NOTES.md, TOC.md, ILLUSTRATIONS.md, SECTION_03.md, and SECTION_03_QA.md: pages 1–5 accepted; old page 6 diagram rejected; two new linked options pending selection; old page 6 and compiled PDF marked superseded review copies. Preserved historical QA and source text. Next production step is selecting an option, reconciling existing Mom-and-Dad copy with the requested Dad-and-Aiden scene, and rebuilding/verifying the final spread and PDF.
 - Earlier approved opening spreads and source Google Doc remain unchanged. No narrative rewrite, replacement full spread, or replacement PDF was made in this exploration; no reference photos or image binaries were published in GitHub. Completion record and latest three summaries updated by logging subagent.
 
+## 2026-09-05T16:13:07+00:00 — Section 2 browser production handoff blocked by locked Mac
+
+- User requested all six Section 2 pages in distinct ChatGPT Chat6Pro browser tabs, independent quality review, then Drive and Git publication, and explicitly granted full permission. Saved six source-faithful prompts and per-page STATUS records; added SECTION_02_BRIEF, SECTION_02_STATUS, assets/section-02/QUALITY_REVIEW and PUBLICATION, and updated local workflow/index documents. Source references were visually inspected.
+- Browser production is incomplete: pages 1, 3, and 5 have visible generated images; page 4 prompt submitted with output unverified; page 2 Send clicked while File upload pending, with persisted submission unverified; page 6 staged but not submitted.
+- Asset-bundle calls stalled for about 14 minutes and were aborted. Browser state explicitly reported the Mac locked and automatic unlock failed; the user must unlock it to continue. This is not an upload-authorization blocker: source attachments succeeded.
+- Main-agent verification confirmed all six prompt/status records and register links exist and zero Section 2 PNGs were saved locally. No independent QA pass, completed-asset upload, or Git publication. Only the private Drive destination folder was created: 1wm8GxfQHEoLbV9dzOAID2QFJzfQI4Rzz. This entry records preparation and blocker handoff, not completed illustrations.
+
 ## 2026-09-05T15:59:14Z — Section 3 completed, independently reviewed, and uploaded
 
 - User requested all pages of the cooked-meal and digestive-differences section, independent QA, upload of passing assets, and GitHub paths/completion tracking. Upload authorization is recorded; creative approval has not been given. Status: completed, independent QA passed; user feedback pending.
@@ -33,6 +40,13 @@ For the logging subagent. The main agent uses the three recent summaries in [AGE
 - Updated TOC.md with direct asset links and approval status; RUNNING_NOTES.md with acceptance and completed checked tasks; ILLUSTRATIONS.md with approved assets and the distinction between the Grandma spread and the older tree-invitation page 2. Documentation updates reached commit `c5bfddce5640caf28e461063613ca5e052845332`; completion logging updates CHANGELOG.md and AGENTS.md.
 - The source Google Doc and earlier artwork remain unchanged. The public repository contains asset links; the PNG files remain in Google Drive.
 
+## 2026-09-05T15:28:20+00:00 — Opening spread preparation and upload blocker
+
+- User requested two subagents using ChatGPT browser GPT-6 Pro for opening pages 3 and 4, iterative review, and persistent completion status and asset paths. Both browser agents verified visible 6 Pro, Latest, and Pro 5 of 5.
+- Retrieved the live Google Doc through the connector and browser DOCX export. Saved and visually inspected assets/references/approved-page-03.png, approved-page-02.png, character-style.png, and text-style.png, with provenance README. Created ASSET_STATUS.md and REVIEW_CRITERIA.md; updated AGENTS.md, TODO.md, TOC.md, ILLUSTRATIONS.md, and RUNNING_NOTES.md. Page 4 prompt prepared; page 3 prompt still being finalized at this record.
+- Verification supplied by the main agent: actual reference dimensions, hashes, and local documentation asset links checked. Preparation only; no new illustration generated, no final quality pass, and no publication.
+- Blocker: automatic approval review rejected uploading the four reference images to ChatGPT pending explicit user authorization. The parent agent has asked the user; authorization remains pending at this record.
+
 ## 2026-09-05T15:17:55Z — First two storyboard spreads
 
 - User requested the first two pages with text and illustration, actual grandmother-reference review, separate page illustration subagents, and iterative quality/fidelity review before showing the results.
@@ -40,6 +54,13 @@ For the logging subagent. The main agent uses the three recent summaries in [AGE
 - Page 2 depicts present-day Aiden meeting Trevor outside the house with a dominant memory of Grandma and Aiden smiling and signing; no climbing. Its text was lightly copyedited only in the new image. The source Google Doc and previously approved artwork remain unchanged.
 - Conversation outputs: page 1 `exec-079de692-572c-4619-8610-ce3a63a128c0.png`; page 2 `exec-fd39d4d1-3a3b-4510-bcbc-a2629afae769.png`. Generated artwork and reference photos were not imported into this public repository. These are agent-reviewed drafts awaiting Greg's feedback, not user-approved selections.
 - Updated repository paths: RUNNING_NOTES.md, CHANGELOG.md, and AGENTS.md. Preserved confirmed preferences and the unresolved anatomical-diagram question. No new user feedback was given on the drafts.
+
+## 2026-09-05T15:08:35+00:00 — Completion checklist and asset reuse guidance
+
+- Created TODO.md with verified setup items and a provisional remaining-work checklist requiring live storyboard and existing-asset checks before a scene inventory. Linked it in TOC.md and README.md.
+- Added AGENTS.md instructions to inspect and reuse existing assets, resources, and approved work before attempting tasks, preserve approved quality, avoid duplication, and check and update TODO.md after verification.
+- Verification supplied by the main agent: Python assertions confirmed TODO.md exists, links are present in AGENTS.md, TOC.md, and README.md, and asset-reuse guidance is present. Changes are local only; no publication completed.
+- Explicit user request: create a todo Markdown file for remaining work and a high-level instruction to check existing resources for fidelity to approved quality and avoid duplicate work.
 
 ## 2026-09-05T14:57:49Z — Public documentation publication
 
@@ -52,3 +73,10 @@ For the logging subagent. The main agent uses the three recent summaries in [AGE
 - Created README.md, TOC.md, AGENTS.md, RUNNING_NOTES.md, and ILLUSTRATIONS.md to route agents to the live storyboard, instructions, and illustration locations; added this completion log.
 - Verification supplied by the main agent: links in the five scaffold documents passed. Earlier session context: storyboard reviewed; GitHub origin connected and access verified. Exact historical completion times were not recorded. No images were imported.
 - User preferences: the editable Google Doc is ground truth; read only needed files; maintain brief current notes; delegate timestamped completion and explicit feedback records; keep the three latest summaries in AGENTS.md; the main agent must not read this log. A user-requested end-of-task update follows the same workflow.
+
+## 2026-09-05T17:34:04+00:00 — Section 2 completed, independently reviewed, and uploaded
+
+- User requested six Section 2 pages in distinct ChatGPT Chat6Pro tabs, iterative independent QA, Drive/Git publication, scrollable images, and a full catalog. Generated and downloaded six selected 1536 × 1024 original spreads; page-specific revisions passed independent visual QA and the parent agent inspected all six selections. User creative approval remains pending.
+- All six PNGs uploaded to the private Section 02 — Time and Primates Drive folder. Parent verification confirmed each file's PNG MIME type, bytes, and parent; local SHA-256, size, dimensions, and all source/prompt paths were checked. Final links, ChatGPT conversations, selected paths, hashes, and source/review evidence are cataloged in SECTION_02_STATUS.md and assets/section-02/manifest.json and PUBLICATION.md.
+- Updated workflow documents, source/prompts and per-page status, quality review, reference provenance, and completion tracking. Opening page 3 preparation remains deferred with its superseded authorization blocker corrected; no new opening illustration claimed.
+- This publication contains Markdown/JSON documentation and links only, preserving concurrent Section 1 work and Section 3's accepted pages 1–5 and provisional, revision-needed Option B. No reference photos or image binaries are published. Git branch update is separately verified after this commit is created; this entry alone is not evidence of successful publication.

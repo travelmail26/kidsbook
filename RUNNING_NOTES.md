@@ -4,6 +4,8 @@ Keep only current, task-relevant context here. Historical completion records bel
 
 ## Current work
 
+- Section 2: all six selected spreads passed independent visual QA and parent inspection after page-specific revisions; all six Drive uploads were verified by metadata readback. Documentation and the complete asset/source/review catalog are included in this publication. User creative approval remains pending. See [SECTION_02_STATUS.md](SECTION_02_STATUS.md), [publication record](assets/section-02/PUBLICATION.md), and [asset register](ASSET_STATUS.md).
+
 - Active production: finish Section 1 from introduction through the first lesson, following the live storyboard, established design references, independent quality review, and Drive/GitHub asset reporting.
 - Greg accepted Section 3 pages 1–5; the old page 6 diagram is rejected. Greg provisionally retained Option B; revision and finalization remain pending.
 - Two illustration-only page 6 alternatives are uploaded and visually reviewed: [A — large wall poster](https://drive.google.com/file/d/101kVASRMEiXKmaHmFqNlDnZ7kY-moH0g/view?usp=drivesdk) and [B — smaller tabletop poster](https://drive.google.com/file/d/1KuK-96mB2EeuL43ILoKC6_4Z1IIvIV4I/view?usp=drivesdk). Both need revisions and are **not accepted precedent** for style, anatomy, character rendering, or future illustrations. B is provisionally retained; A remains unselected.

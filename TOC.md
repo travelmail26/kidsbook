@@ -6,6 +6,13 @@ Open only the file or source section needed for the current task. Do not preload
 | --- | --- | --- |
 | [README.md](README.md) | Public project overview | First orientation |
 | [AGENTS.md](AGENTS.md) | Agent workflow and latest three change summaries | Start of a task |
+| [TODO.md](TODO.md) | Completion checklist and remaining work | Before starting and after verifying a task |
+| [ASSET_STATUS.md](ASSET_STATUS.md) | Scene status, verified assets, review evidence, and next actions | Before assigning or resuming scene work |
+| [SECTION_02_BRIEF.md](SECTION_02_BRIEF.md) | Current six-page section-two source, references, production and QA requirements | Completing the eating-time section |
+| [SECTION_02_STATUS.md](SECTION_02_STATUS.md) | Six-page completion register, blocker and precise resume steps | Resuming and publishing section two |
+| [Section-two quality review](assets/section-02/QUALITY_REVIEW.md) | Independent review of actual page candidates | Revising or publishing section-two assets |
+| [REVIEW_CRITERIA.md](REVIEW_CRITERIA.md) | Fidelity and quality checks for opening pages 3 and 4 | Reviewing candidates and directing revisions |
+| [Reference provenance](assets/references/README.md) | Inspected source images and opening page 3/4 text | Checking fidelity for the opening sequence |
 | [RUNNING_NOTES.md](RUNNING_NOTES.md) | Task checklist, current context, preferences, and unresolved questions | Relevant to current work |
 | [ILLUSTRATIONS.md](ILLUSTRATIONS.md) | Reference and illustration locations | Finding or preparing artwork |
 | [SECTION_03.md](SECTION_03.md) | Six final passages, assets, production details, and science edits/sources | Reviewing or revising Section 3 |
@@ -56,3 +63,7 @@ Local workspace: `/Users/code/Documents/ChatGPT/kidsbook`.
 Repository: [travelmail26/kidsbook](https://github.com/travelmail26/kidsbook).
 
 Maintain this index when adding, moving, or renaming key files. Do not list proposed files as existing assets.
+
+## Section 2 — time and primates
+
+All six selected spreads passed independent visual review and the parent agent's inspection. All six PNG uploads were verified by Drive metadata (MIME type, bytes, and parent); details are tracked in [publication record](assets/section-02/PUBLICATION.md); user creative approval remains pending. See the [six-page status and asset links](SECTION_02_STATUS.md), [source brief](SECTION_02_BRIEF.md), and [quality review](assets/section-02/QUALITY_REVIEW.md). Selected image binaries remain local and in the [Section 2 Drive folder](https://drive.google.com/drive/folders/1wm8GxfQHEoLbV9dzOAID2QFJzfQI4Rzz), outside GitHub.

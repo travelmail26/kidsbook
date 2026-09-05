@@ -1,11 +1,12 @@
 # Agent instructions
 
---This document is agent instructions for writing a children's book. This is the primary instruction document. 
-
---ONLY READ FILES NECESSARY TO COMPLETE YOUR TASK. NEVER READ FILES UNNECESSARY TO READ YOUR TASK TO PREVENT INSTRUCTION OVERLOAD.
+This is the primary instruction document for writing this children's book. Read only files necessary for the current task to avoid instruction overload.
 
 - The [live Google Doc](https://docs.google.com/document/d/1f6nbea5M4BJEsfQdq17SvxFLUpuSjPrzEQhwimhki0I/edit?tab=t.0) is ground truth and may be edited by the user at any time. Recheck the relevant section before work; do not treat cached notes as current approvals. Follow explicit user directions and flag material conflicts.
 - Read this file, then use [TOC.md](TOC.md) to select only necessary files or source sections. Do not bulk-read the repository, linked background, or historical notes.
+- Before attempting a task, locate and inspect the relevant existing assets, resources, and approved work through TOC.md and the source of truth. Reuse or extend suitable existing work to avoid duplication, and match the approved quality, style, and content. Verify actual assets and approval status; if a reference is missing or inaccessible, record the gap rather than inventing a replacement or claiming fidelity.
+- Check [TODO.md](TODO.md) before starting work, select the relevant unfinished item, and update its status after verification. Keep remaining work and blockers current; a checked box means completed and verified, not merely planned or awaiting approval.
+- Consult [ASSET_STATUS.md](ASSET_STATUS.md) before assigning scene work. Use its stable scene IDs, verified asset paths, selected versions, and pending actions; keep production/review status separate from user approval. Update the register and TODO.md together after reviewing and saving assets.
 - Locate actual reference images through [ILLUSTRATIONS.md](ILLUSTRATIONS.md). Preserve approved work, character continuity, and the separate left text/right illustration layout. Verify images before claiming to have inspected them.
 - Keep [RUNNING_NOTES.md](RUNNING_NOTES.md) brief and current: active work, confirmed preferences, feedback, and unresolved questions. Replace superseded notes rather than accumulating history. Keep key paths in TOC.md current.
 - After each completed task, if subagents are available, delegate a brief completion record to a logging subagent. Supply the outcome, changed paths, verification, and user preferences or feedback from the current task. The subagent owns [CHANGELOG.md](CHANGELOG.md) and the latest-changes section below; it must preserve others' edits.
@@ -14,6 +15,6 @@
 
 ## Latest changes
 
+- **2026-09-05T17:34:04+00:00 — Section 2 completed, independently reviewed, and uploaded:** Six original ChatGPT 6 Pro spreads passed independent QA and parent inspection; all six Drive PNG uploads and local hashes/dimensions verified. Complete asset/source/prompt/review catalog prepared for documentation publication; user creative approval pending. Concurrent sections preserved.
 - **2026-09-05T17:25:45Z — Diagram B retained provisionally:** Greg asked to keep the tabletop option for now; both alternatives still need revisions and are not accepted precedent for style, anatomy, or characters. Updated status and indexes; Section 3 pages 1–5 remain accepted. Section 1 introduction-through-first-lesson production is requested and in progress.
 - **2026-09-05T17:09:36Z — Page 6 alternatives awaiting selection:** Greg accepted Section 3 pages 1–5 and rejected the complex, poorly proportioned torso diagram and gradient style. Two simplified matte Dad-and-Aiden illustration options (large wall poster / smaller tabletop poster) were reviewed, uploaded, and verified; links/statuses updated. Old page 6 and PDF are superseded review copies; final selection, copy reconciliation, and PDF rebuild remain pending.
-- **2026-09-05T15:59:14Z — Section 3 completed and uploaded:** Six spreads and reading PDF passed independent visual/science QA and were uploaded to Drive with metadata/PDF checks. Added exact text, science edits, QA record, and verified asset paths; anatomy resolved qualitatively. User feedback pending; earlier approved work and source Doc unchanged.

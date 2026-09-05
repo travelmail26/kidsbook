@@ -6,8 +6,10 @@ The [live storyboard](https://docs.google.com/document/d/1f6nbea5M4BJEsfQdq17Svx
 | --- | --- | --- |
 | Style example | [Google Drive image](https://drive.google.com/file/d/1d39dek0SE4iS7rGtt_cE5ykl3-e5_1bf/view?usp=sharing) | Linked by the storyboard; not yet inspected |
 | Opening: rambunctious Aiden | `kids book/Aiden_page_01.png` | Exact source-listed path; approved layout according to notes; local file not present |
-| Aiden invites Trevor to climb | `kids book/Aiden_page_02.png` | Exact source-listed path; approved layout according to notes; local file not present |
-| Trevor stops to eat fruit | `kids book/Aiden_page_03.png` | Exact source-listed path; approved layout according to notes; local file not present |
+| Aiden invites Trevor to climb | Recovered approved image (local workspace path: `assets/references/approved-page-02.png`; binary is not Git-hosted); source label `kids book/Aiden_page_02.png` | Retrieved and visually inspected 2026-09-05; live source labels layout approved. Use character reference only: image text differs from current manuscript |
+| Trevor stops to eat fruit | Recovered approved image (local workspace path: `assets/references/approved-page-03.png`; binary is not Git-hosted); source label `kids book/Aiden_page_03.png` | Retrieved and visually inspected 2026-09-05; live source labels layout approved; embedded wording matches current page 3 text |
+| Character rendering example | Local reference (local workspace path: `assets/references/character-style.png`; binary is not Git-hosted) | Retrieved from live storyboard and visually inspected 2026-09-05 |
+| Botanical text-page example | Local reference (local workspace path: `assets/references/text-style.png`; binary is not Git-hosted) | Retrieved from live storyboard and visually inspected 2026-09-05; example wording is not page 3/4 manuscript |
 | First sequence, Page 6: skull comparison | Live storyboard, "Preferred Page 6 illustration — first image selected by Greg" | Selection noted; standalone file path not provided |
 | Remaining scenes and text-page examples | Relevant sections of the live storyboard | Consult only the scene needed for the task |
 
@@ -53,3 +55,9 @@ Greg accepted Section 3 pages 1–5 and rejected the earlier page 6 diagram. Gre
 
 Both use Dad and Aiden only, no torso outlines, a simplified Human/Chimpanzee comparison, and layered matte brushwork. Independent visual review found both ready to show as alternatives and B stronger in simplification; this does not certify anatomical measurements. Before final spread/PDF production, revise provisionally retained Option B and reconcile the existing Mom-and-Dad dialogue with the requested Dad-and-Aiden scene.
 
+
+For current production, selected versions, and next actions, check [ASSET_STATUS.md](ASSET_STATUS.md). Local reference extraction provenance is in [assets/references/README.md](assets/references/README.md); reference image binaries remain local and are not published to GitHub.
+
+## Section 2 — time and primates
+
+All six selected spreads passed independent visual review and the parent agent's inspection. All six PNG uploads were verified by Drive metadata (MIME type, bytes, and parent); details are tracked in [publication record](assets/section-02/PUBLICATION.md); user creative approval remains pending. See the [six-page status and asset links](SECTION_02_STATUS.md), [source brief](SECTION_02_BRIEF.md), and [quality review](assets/section-02/QUALITY_REVIEW.md). Selected image binaries remain local and in the [Section 2 Drive folder](https://drive.google.com/drive/folders/1wm8GxfQHEoLbV9dzOAID2QFJzfQI4Rzz), outside GitHub.

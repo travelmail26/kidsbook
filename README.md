@@ -12,6 +12,7 @@ The user maintains the [live storyboard, illustration directions, and approved-p
 
 - [Table of contents](TOC.md): key files, source documents, and illustration locations.
 - [Agent instructions](AGENTS.md): a short workflow and the three latest change summaries.
+- [Completion checklist](TODO.md): remaining work and verified completion status.
 - [Running notes](RUNNING_NOTES.md): current working context and user preferences.
 - [Illustration index](ILLUSTRATIONS.md): reference and approved-image locations and their verification status.
 
