@@ -2,6 +2,14 @@
 
 For the logging subagent. The main agent uses the three recent summaries in [AGENTS.md](AGENTS.md) and must not read this history.
 
+## 2026-09-05T15:17:55Z — First two storyboard spreads
+
+- User requested the first two pages with text and illustration, actual grandmother-reference review, separate page illustration subagents, and iterative quality/fidelity review before showing the results.
+- Completed two 1536×1024 draft spreads using page-specific illustration agents and inspected grandmother/Aiden/style references. Page 1 passed the main agent's first visual review; page 2 underwent three revisions for Grandma's illustrated style, mature likeness, removal of the page number, and a more prominent memory bubble. The main agent verified readable text, character continuity, text-left/illustration-right separation, and scene fidelity.
+- Page 2 depicts present-day Aiden meeting Trevor outside the house with a dominant memory of Grandma and Aiden smiling and signing; no climbing. Its text was lightly copyedited only in the new image. The source Google Doc and previously approved artwork remain unchanged.
+- Conversation outputs: page 1 `exec-079de692-572c-4619-8610-ce3a63a128c0.png`; page 2 `exec-fd39d4d1-3a3b-4510-bcbc-a2629afae769.png`. Generated artwork and reference photos were not imported into this public repository. These are agent-reviewed drafts awaiting Greg's feedback, not user-approved selections.
+- Updated repository paths: RUNNING_NOTES.md, CHANGELOG.md, and AGENTS.md. Preserved confirmed preferences and the unresolved anatomical-diagram question. No new user feedback was given on the drafts.
+
 ## 2026-09-05T14:57:49Z — Public documentation publication
 
 - User explicitly approved publishing the documentation, including Google Doc and Drive source links.
