@@ -2,6 +2,20 @@
 
 Open only the file or source section needed for the current task. Do not preload the repository or linked documents.
 
+## Completed assets — correct storyboard document
+
+**Use [Storyboard and illustrations Aiden and His Hungry Friend — Completed Asset Index](https://docs.google.com/document/d/1f6nbea5M4BJEsfQdq17SvxFLUpuSjPrzEQhwimhki0I/edit?tab=t.5r3ngpvcah82) for the embedded completed artwork, not the older Running Notes document.** The section tabs contain 18 current completed production spreads and three separately labeled diagram studies/archive images. Production completion does not confer Greg's creative approval; Section 3's final diagram remains unfinished.
+
+| Embedded gallery | Contents | Separate originals |
+| --- | --- | --- |
+| [Section 1 — Completed Spreads](https://docs.google.com/document/d/1f6nbea5M4BJEsfQdq17SvxFLUpuSjPrzEQhwimhki0I/edit?tab=t.35x7vsv7n9jt) | Seven spreads, introduction through the first lesson; spreads 1–2 approved, new production awaiting review | [kids book/Section 01 — Meeting and Chewing](https://drive.google.com/drive/folders/1KwVHPGnjkErfVNC-gfyQ_KFxMtwMJrAa) |
+| [Section 2 — Completed Spreads](https://docs.google.com/document/d/1f6nbea5M4BJEsfQdq17SvxFLUpuSjPrzEQhwimhki0I/edit?tab=t.daauxjx00sqn) | Six selected spreads, next morning through the clocks lesson; creative approval pending | [kids book/Section 02 — Time and Primates](https://drive.google.com/drive/folders/1wm8GxfQHEoLbV9dzOAID2QFJzfQI4Rzz) |
+| [Section 3 — Spreads and Revisions](https://docs.google.com/document/d/1f6nbea5M4BJEsfQdq17SvxFLUpuSjPrzEQhwimhki0I/edit?tab=t.tu8q6dp8iy95) | Five accepted spreads; provisional Option B, unselected Option A, and rejected older diagram explicitly separated | [kids book/Section 03 — Lunch and Cooking](https://drive.google.com/drive/folders/1vyebzpsnRnboZwA8uzmgUrYGfxFa6Le1) |
+
+[Full clickable Drive inventory](https://drive.google.com/file/d/10zA43Zio_cnPpbKkDDyXwgsTHsbnqIr9/view) · [Asset manifest: filenames, dimensions, hashes and IDs](https://drive.google.com/file/d/17K0vehQrLxbzW6qtl_CCExQCMD_eW23B/view) · [Project folder](https://drive.google.com/drive/folders/181gunc7k4YIaNPoFy1uQq-AppJ63z7BT).
+
+Each gallery embeds the actual PNGs and links to their standalone Drive originals. Existing originals, manuscript text, reference photos and historical layouts are retained; this synchronization does not regenerate artwork or publish personal reference photos. Section 2 also has the six Git-hosted PNGs listed below; Section 1 and Section 3 originals remain Drive-hosted. Section 1's seven-spread PDF remains a review reading copy; the old Section 3 PDF includes the rejected final diagram and is archived, with rebuilding pending.
+
 | File or source | Purpose | Read when |
 | --- | --- | --- |
 | [README.md](README.md) | Public project overview | First orientation |
