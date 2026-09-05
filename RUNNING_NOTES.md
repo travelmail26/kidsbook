@@ -4,11 +4,11 @@ Keep only current, task-relevant context here. Historical completion records bel
 
 ## Current work
 
-- First two storyboard spreads for *Aiden and His Hungry Friend* completed, visually reviewed, and accepted by Greg on 2026-09-05; final PNGs uploaded to the kids book Google Drive folder.
-- Page-specific illustration agents used the inspected grandmother photograph and approved Aiden/style references. Both spreads separate left botanical handlettered text from right illustration; page 2 shows Aiden meeting Trevor and remembering Grandma teaching signs.
-- Page 1 retains its source text. Page 2 uses a lightly copyedited text in the approved image only; the source Google Doc and earlier approved artwork are unchanged.
-- The live storyboard has three sequences: meeting and chewing; time spent eating; lunch, resting, and the cooking reveal. Recheck the source for current wording and sequence numbering before producing a page.
-- Final artwork is hosted in Google Drive. Direct asset paths are in [TOC.md](TOC.md#completed-and-approved-spreads) and [ILLUSTRATIONS.md](ILLUSTRATIONS.md).
+- Section 3's six spreads and reading PDF are complete, independently reviewed, and uploaded to the kids book Drive folder. **Independent QA passed; user feedback pending.** Upload authorization does not imply creative approval.
+- [SECTION_03.md](SECTION_03.md) holds exact final copy, asset links, and explicit science edits; [SECTION_03_QA.md](SECTION_03_QA.md) records independent review. Direct paths are also in [TOC.md](TOC.md) and [ILLUSTRATIONS.md](ILLUSTRATIONS.md).
+- Actual Grandpa, Dad, and Mom references were inspected; their cartoon likenesses were refined. The qualitative digestion diagram passed science and visual review; exact species length ratios were deliberately omitted.
+- The first two spreads remain completed and approved by Greg on 2026-09-05. The live Google Doc and earlier approved artwork remain unchanged; Section 3 adaptations exist only in the new deliverables.
+- Recheck the live storyboard's relevant section before further work.
 
 ## Task checklist
 
@@ -16,6 +16,19 @@ Keep only current, task-relevant context here. Historical completion records bel
 - [x] Construct and refine spread 2 — Grandma teaching signs, using her actual photograph: [Aiden_Spread_02_Grandma_Signing_Approved.png](https://drive.google.com/file/d/10g6DP9YSiHc-gkeJ5FR0h7SkEa5evPCT/view?usp=drivesdk).
 - [x] Receive Greg’s acceptance and upload both final PNGs to Google Drive.
 - [x] Add verified asset links to TOC.md and ILLUSTRATIONS.md.
+
+## Section 3 completion checklist
+
+- [x] S3P1 — Looks outside: [final PNG](https://drive.google.com/file/d/1a_CrcpoOoLqsmGLo4krr4pavNpFcKbEk/view?usp=drivesdk); independent QA passed and upload verified.
+- [x] S3P2 — Lucky lunch: [final PNG](https://drive.google.com/file/d/1PpifofXqJstkXalZ041zkBpGPbFRjje9/view?usp=drivesdk); independent QA passed and upload verified.
+- [x] S3P3 — Trevor rests: [final PNG](https://drive.google.com/file/d/1fqWJwFjIvuIu51s6seVjO4u3L_gDMHtn/view?usp=drivesdk); independent QA passed and upload verified.
+- [x] S3P4 — Aiden plays: [final PNG](https://drive.google.com/file/d/1c9Qu8HwJMJD8qz-5O8UGoGBJzNbcWkdG/view?usp=drivesdk); independent QA passed and upload verified.
+- [x] S3P5 — New question: [final PNG](https://drive.google.com/file/d/1Z39VS_j-ruEwtNTEyi_LttOPqbuuE-Gt/view?usp=drivesdk); independent QA passed and upload verified.
+- [x] S3P6 — Digestion and cooking: [final PNG](https://drive.google.com/file/d/1h81NZFmY7rXABF-EEr4xEthVTSzcJ8UX/view?usp=drivesdk); independent QA passed and upload verified.
+- [x] Complete separate science review and verify the qualitative diagram.
+- [x] Publish [six-spread reading PDF](https://drive.google.com/file/d/1aBN68An4Gw-4UvI3nfaP629f9j8s5hv7/view?usp=drivesdk); verify six ordered pages, selected artwork, and vector diagram labels.
+- [x] Update asset indexes, production notes, QA record, and completion log.
+- [ ] Receive Greg's feedback on Section 3.
 
 ## Confirmed preferences and directions
 
@@ -28,4 +41,4 @@ Keep only current, task-relevant context here. Historical completion records bel
 
 - The grandmother photograph and approved Aiden/style references were visually inspected for the first two spreads; inspect the relevant references again when needed for subsequent scenes.
 - The source uses both page numbers and "Next Page" labels. Confirm the intended scene rather than relying on a number alone.
-- Confirm the final anatomical diagram's wording and proportions before illustrating it; the running notes are not a scientific validation of the manuscript.
+- Section 3 anatomy question resolved for these deliverables: qualitative diagram verified; exact species length ratios deliberately omitted. Re-review science if wording or diagram changes.
