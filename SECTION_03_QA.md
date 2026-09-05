@@ -1,6 +1,19 @@
 # Section 3 independent quality review
 
-Status: **PASS — all six selected spreads**.
+Current status: **Pages 1–5 accepted by Greg; old page 6 diagram rejected; replacement selection pending.** The old page 6 and compiled PDF are superseded review copies. The original PASS record below is historical and does not override this user feedback.
+
+## Page 6 revision options — selection pending
+
+Greg accepted Section 3 pages 1–5 and rejected the earlier page 6 diagram. These are **illustration-only design studies**, not approved replacement spreads; no story text was rewritten and no replacement PDF has been made.
+
+| Option | Google Drive asset | Status |
+| --- | --- | --- |
+| A — Large wall poster | [Aiden_Section03_Page06_Option_A_Large_Poster.png](https://drive.google.com/file/d/101kVASRMEiXKmaHmFqNlDnZ7kY-moH0g/view?usp=drivesdk) | Reviewed design study; Greg's selection pending |
+| B — Smaller tabletop poster | [Aiden_Section03_Page06_Option_B_Tabletop.png](https://drive.google.com/file/d/1KuK-96mB2EeuL43ILoKC6_4Z1IIvIV4I/view?usp=drivesdk) | Reviewed design study; Greg's selection pending |
+
+Both use Dad and Aiden only, no torso outlines, a simplified Human/Chimpanzee comparison, and layered matte brushwork. Independent visual review found both ready to show as alternatives and B stronger in simplification; this does not certify anatomical measurements. Before final spread/PDF production, select an option and reconcile the existing Mom-and-Dad dialogue with the requested Dad-and-Aiden scene.
+
+## Historical review — original six spreads
 
 Reviewer: independent `section3_quality` subagent. Reviewed the actual full PNGs against the supplied exact page copy, both approved opening spreads, and the available Dad, Mom, and Grandpa photo references. This records quality review, not a new claim of user approval.
 
@@ -23,4 +36,4 @@ S3P6 visual review confirms the labels, legend, title, and contrasting intestine
 
 The main agent subsequently verified all six PNG uploads and the [six-spread reading PDF](https://drive.google.com/file/d/1aBN68An4Gw-4UvI3nfaP629f9j8s5hv7/view?usp=drivesdk) in the kids book Drive folder, including names, MIME types, parents, and byte sizes. The PDF has six ordered 12 × 8 inch pages with the selected artwork and vector diagram labels. Exact diagram labels and inclusion were checked. The separate science reviewer passed the adapted dialogue and actual qualitative diagram. See [SECTION_03.md](SECTION_03.md) for the text, science changes, and source basis.
 
-Status remains **completed, independent QA passed; user feedback pending**. The user's authorization to upload passing assets is not recorded as creative approval.
+Historical publication status was independent QA passed, user feedback pending. Current user feedback and pending replacement status are recorded at the top of this file.
