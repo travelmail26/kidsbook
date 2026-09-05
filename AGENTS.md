@@ -14,6 +14,6 @@
 
 ## Latest changes
 
+- **2026-09-05T17:25:45Z — Diagram B retained provisionally:** Greg asked to keep the tabletop option for now; both alternatives still need revisions and are not accepted precedent for style, anatomy, or characters. Updated status and indexes; Section 3 pages 1–5 remain accepted. Section 1 introduction-through-first-lesson production is requested and in progress.
 - **2026-09-05T17:09:36Z — Page 6 alternatives awaiting selection:** Greg accepted Section 3 pages 1–5 and rejected the complex, poorly proportioned torso diagram and gradient style. Two simplified matte Dad-and-Aiden illustration options (large wall poster / smaller tabletop poster) were reviewed, uploaded, and verified; links/statuses updated. Old page 6 and PDF are superseded review copies; final selection, copy reconciliation, and PDF rebuild remain pending.
 - **2026-09-05T15:59:14Z — Section 3 completed and uploaded:** Six spreads and reading PDF passed independent visual/science QA and were uploaded to Drive with metadata/PDF checks. Added exact text, science edits, QA record, and verified asset paths; anatomy resolved qualitatively. User feedback pending; earlier approved work and source Doc unchanged.
-- **2026-09-05T15:28:24Z — Approved spreads uploaded to Google Drive:** Greg said "good" and requested Drive uploads, completed to-do notes, and TOC paths. Both approved PNGs were uploaded and verified; TOC, running notes, and illustration index now link to the final assets. Source Doc and earlier artwork unchanged.

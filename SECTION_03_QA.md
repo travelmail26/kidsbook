@@ -1,17 +1,17 @@
 # Section 3 independent quality review
 
-Current status: **Pages 1–5 accepted by Greg; old page 6 diagram rejected; replacement selection pending.** The old page 6 and compiled PDF are superseded review copies. The original PASS record below is historical and does not override this user feedback.
+Current status: **Pages 1–5 accepted by Greg; old page 6 diagram rejected; Option B provisionally retained; revisions and finalization pending.** The old page 6 and compiled PDF are superseded review copies. The original PASS record below is historical and does not override this user feedback.
 
-## Page 6 revision options — selection pending
+## Page 6 revision options — B provisionally retained
 
-Greg accepted Section 3 pages 1–5 and rejected the earlier page 6 diagram. These are **illustration-only design studies**, not approved replacement spreads; no story text was rewritten and no replacement PDF has been made.
+Greg accepted Section 3 pages 1–5 and rejected the earlier page 6 diagram. Greg asked to keep **Option B provisionally** on 2026-09-05. Both alternatives **need revisions and are not accepted precedent** for style, anatomy, character rendering, or future illustrations. These remain illustration-only design studies, not approved replacement spreads; no story text was rewritten and no replacement PDF has been made.
 
 | Option | Google Drive asset | Status |
 | --- | --- | --- |
-| A — Large wall poster | [Aiden_Section03_Page06_Option_A_Large_Poster.png](https://drive.google.com/file/d/101kVASRMEiXKmaHmFqNlDnZ7kY-moH0g/view?usp=drivesdk) | Reviewed design study; Greg's selection pending |
-| B — Smaller tabletop poster | [Aiden_Section03_Page06_Option_B_Tabletop.png](https://drive.google.com/file/d/1KuK-96mB2EeuL43ILoKC6_4Z1IIvIV4I/view?usp=drivesdk) | Reviewed design study; Greg's selection pending |
+| A — Large wall poster | [Aiden_Section03_Page06_Option_A_Large_Poster.png](https://drive.google.com/file/d/101kVASRMEiXKmaHmFqNlDnZ7kY-moH0g/view?usp=drivesdk) | Unselected design study; revisions needed; not accepted precedent |
+| B — Smaller tabletop poster | [Aiden_Section03_Page06_Option_B_Tabletop.png](https://drive.google.com/file/d/1KuK-96mB2EeuL43ILoKC6_4Z1IIvIV4I/view?usp=drivesdk) | Provisionally retained by Greg; revisions needed; not accepted precedent |
 
-Both use Dad and Aiden only, no torso outlines, a simplified Human/Chimpanzee comparison, and layered matte brushwork. Independent visual review found both ready to show as alternatives and B stronger in simplification; this does not certify anatomical measurements. Before final spread/PDF production, select an option and reconcile the existing Mom-and-Dad dialogue with the requested Dad-and-Aiden scene.
+Both use Dad and Aiden only, no torso outlines, a simplified Human/Chimpanzee comparison, and layered matte brushwork. Independent visual review found both ready to show as alternatives and B stronger in simplification; this does not certify anatomical measurements. Before final spread/PDF production, revise provisionally retained Option B and reconcile the existing Mom-and-Dad dialogue with the requested Dad-and-Aiden scene.
 
 ## Historical review — original six spreads
 

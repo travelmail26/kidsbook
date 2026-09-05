@@ -1,6 +1,6 @@
 # Section 3 — Lunch, rest, play, and cooking
 
-Status: **Pages 1–5 accepted by Greg; old page 6 diagram rejected; replacement selection pending.** The original page 6 and compiled PDF below are superseded review copies. Historical production/science notes and copy are retained; this revision does not rewrite the source Google Doc.
+Status: **Pages 1–5 accepted by Greg; old page 6 diagram rejected; Option B provisionally retained; revisions and finalization pending.** The original page 6 and compiled PDF below are superseded review copies. Historical production/science notes and copy are retained; this revision does not rewrite the source Google Doc.
 
 The [live storyboard](https://docs.google.com/document/d/1f6nbea5M4BJEsfQdq17SvxFLUpuSjPrzEQhwimhki0I/edit?tab=t.0) was rechecked for this section and remains ground truth. The original Google Doc and earlier approved artwork were not edited. The passages below record the exact final copy in the new spreads, with line wrapping omitted where it does not affect words or punctuation.
 
@@ -13,21 +13,21 @@ The [live storyboard](https://docs.google.com/document/d/1f6nbea5M4BJEsfQdq17Svx
 | S3P3 — Trevor rests | [Aiden_Section03_Page03_Trevor_Rests.png](https://drive.google.com/file/d/1fqWJwFjIvuIu51s6seVjO4u3L_gDMHtn/view?usp=drivesdk) | Completed; accepted by Greg |
 | S3P4 — Aiden plays | [Aiden_Section03_Page04_Aiden_Plays.png](https://drive.google.com/file/d/1c9Qu8HwJMJD8qz-5O8UGoGBJzNbcWkdG/view?usp=drivesdk) | Completed; accepted by Greg |
 | S3P5 — New question | [Aiden_Section03_Page05_New_Question.png](https://drive.google.com/file/d/1Z39VS_j-ruEwtNTEyi_LttOPqbuuE-Gt/view?usp=drivesdk) | Completed; accepted by Greg |
-| S3P6 — Digestion and cooking | [Aiden_Section03_Page06_Digestion.png](https://drive.google.com/file/d/1h81NZFmY7rXABF-EEr4xEthVTSzcJ8UX/view?usp=drivesdk) | Superseded review copy; diagram rejected; replacement selection pending |
+| S3P6 — Digestion and cooking | [Aiden_Section03_Page06_Digestion.png](https://drive.google.com/file/d/1h81NZFmY7rXABF-EEr4xEthVTSzcJ8UX/view?usp=drivesdk) | Superseded review copy; diagram rejected; Option B provisionally retained; revisions and finalization pending |
 | Six-spread reading PDF | [Aiden_Section03_Complete.pdf](https://drive.google.com/file/d/1aBN68An4Gw-4UvI3nfaP629f9j8s5hv7/view?usp=drivesdk) | Superseded review copy; includes rejected page 6; rebuild pending |
 
 All six PNGs are 1536 × 1024, with separate ivory botanical text-left and character-illustration-right panels. The reading PDF contains the six spreads in order, each on a 12 × 8 inch page; its digestion labels are vector text. Assets are in the [kids book Drive folder](https://drive.google.com/drive/folders/181gunc7k4YIaNPoFy1uQq-AppJ63z7BT). The repository contains documentation and links, not image binaries or reference photos.
 
-## Page 6 revision options — selection pending
+## Page 6 revision options — B provisionally retained
 
-Greg accepted Section 3 pages 1–5 and rejected the earlier page 6 diagram. These are **illustration-only design studies**, not approved replacement spreads; no story text was rewritten and no replacement PDF has been made.
+Greg accepted Section 3 pages 1–5 and rejected the earlier page 6 diagram. Greg asked to keep **Option B provisionally** on 2026-09-05. Both alternatives **need revisions and are not accepted precedent** for style, anatomy, character rendering, or future illustrations. These remain illustration-only design studies, not approved replacement spreads; no story text was rewritten and no replacement PDF has been made.
 
 | Option | Google Drive asset | Status |
 | --- | --- | --- |
-| A — Large wall poster | [Aiden_Section03_Page06_Option_A_Large_Poster.png](https://drive.google.com/file/d/101kVASRMEiXKmaHmFqNlDnZ7kY-moH0g/view?usp=drivesdk) | Reviewed design study; Greg's selection pending |
-| B — Smaller tabletop poster | [Aiden_Section03_Page06_Option_B_Tabletop.png](https://drive.google.com/file/d/1KuK-96mB2EeuL43ILoKC6_4Z1IIvIV4I/view?usp=drivesdk) | Reviewed design study; Greg's selection pending |
+| A — Large wall poster | [Aiden_Section03_Page06_Option_A_Large_Poster.png](https://drive.google.com/file/d/101kVASRMEiXKmaHmFqNlDnZ7kY-moH0g/view?usp=drivesdk) | Unselected design study; revisions needed; not accepted precedent |
+| B — Smaller tabletop poster | [Aiden_Section03_Page06_Option_B_Tabletop.png](https://drive.google.com/file/d/1KuK-96mB2EeuL43ILoKC6_4Z1IIvIV4I/view?usp=drivesdk) | Provisionally retained by Greg; revisions needed; not accepted precedent |
 
-Both use Dad and Aiden only, no torso outlines, a simplified Human/Chimpanzee comparison, and layered matte brushwork. Independent visual review found both ready to show as alternatives and B stronger in simplification; this does not certify anatomical measurements. Before final spread/PDF production, select an option and reconcile the existing Mom-and-Dad dialogue with the requested Dad-and-Aiden scene.
+Both use Dad and Aiden only, no torso outlines, a simplified Human/Chimpanzee comparison, and layered matte brushwork. Independent visual review found both ready to show as alternatives and B stronger in simplification; this does not certify anatomical measurements. Before final spread/PDF production, revise provisionally retained Option B and reconcile the existing Mom-and-Dad dialogue with the requested Dad-and-Aiden scene.
 
 ## Historical production and verification
 

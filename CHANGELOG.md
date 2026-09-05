@@ -2,6 +2,12 @@
 
 For the logging subagent. The main agent uses the three recent summaries in [AGENTS.md](AGENTS.md) and must not read this history.
 
+## 2026-09-05T17:25:45Z — Diagram B retained provisionally; no accepted precedent
+
+- Greg requested keeping the second (tabletop) option for now and explicitly said the alternatives still need revisions and are not accepted precedent. Option B is provisionally retained; neither alternative is an approved final spread, style reference, anatomy reference, or character-rendering precedent. Option A remains unselected.
+- Updated TOC.md, RUNNING_NOTES.md, ILLUSTRATIONS.md, SECTION_03.md, and SECTION_03_QA.md consistently. Preserved Section 3 pages 1–5 acceptance and the old page 6/PDF superseded status. No Section 3 artwork, copy, or PDF was changed.
+- Greg requested completion of Section 1 from the introduction through the first lesson, including design/illustration instructions and GitHub/Drive asset reporting. This production request is in progress, not completed or approved.
+
 ## 2026-09-05T17:09:36Z — Page 6 simplified alternatives; selection pending
 
 - Greg accepted Section 3 pages 1–5 and rejected the prior digestive diagram: torso compression, incorrect proportions (intestines near shoulders), excessive complexity, poor drawing, and sloppy gradient fills. Requested radical simplification, no torso outlines, realistic unobscured forms, varied digestive-tract/poster scale, faithful layered matte brushstrokes, and only Dad and Aiden.
