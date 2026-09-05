@@ -4,6 +4,15 @@ Check this file before starting a task. Use `[ ]` for unfinished work and `[x]` 
 
 This initial checklist tracks preparation and known verification gaps from the local project indexes. It is not a verified inventory of unfinished pages or current Google Doc approvals.
 
+## Completed-asset filing — verified 2026-09-05T18:19:51Z
+
+Greg clarified that all completed assets belong in **Storyboard and illustrations Aiden and His Hungry Friend**, not the older Running Notes document, and requested corresponding Google Drive and GitHub TOC records.
+
+- [x] Embed the seven current Section 1 spreads, six current Section 2 spreads, and five accepted Section 3 spreads in the [correct storyboard's section galleries](https://docs.google.com/document/d/1f6nbea5M4BJEsfQdq17SvxFLUpuSjPrzEQhwimhki0I/edit?tab=t.5r3ngpvcah82), with clickable paths to the separate PNG originals. Verified seven, six, and eight image objects respectively; the last count includes the three labeled revision/archive images, not additional completed current spreads.
+- [x] Keep Section 3 Option B provisional, Option A unselected, and the rejected older diagram and PDF explicitly archived; do not promote them to approved precedent or a finished ending.
+- [x] Verify the standalone PNGs and PDF locations in the section folders under [kids book](https://drive.google.com/drive/folders/181gunc7k4YIaNPoFy1uQq-AppJ63z7BT); retain existing file IDs and originals rather than uploading duplicates. [Full Drive inventory](https://drive.google.com/file/d/10zA43Zio_cnPpbKkDDyXwgsTHsbnqIr9/view) and [manifest](https://drive.google.com/file/d/17K0vehQrLxbzW6qtl_CCExQCMD_eW23B/view) are available in the project folder.
+- [x] Add and verify the correct storyboard index, individual gallery tabs, Drive section folders, full inventory, and manifest in [TOC.md](TOC.md). Remove the duplicate Section 2 gallery introduced by overlapping document edits; preserve one six-spread set, the original manuscript, historical images, and user-approval distinctions. No artwork regenerated and no website publication changed by this filing task.
+
 ## Project setup
 
 - [x] Create a completion checklist and link it from AGENTS.md, TOC.md, and README.md.
