@@ -1,5 +1,9 @@
 # Agent instructions
 
+--This document is agent instructions for writing a children's book. This is the primary instruction document. 
+
+--ONLY READ FILES NECESSARY TO COMPLETE YOUR TASK. NEVER READ FILES UNNECESSARY TO READ YOUR TASK TO PREVENT INSTRUCTION OVERLOAD.
+
 - The [live Google Doc](https://docs.google.com/document/d/1f6nbea5M4BJEsfQdq17SvxFLUpuSjPrzEQhwimhki0I/edit?tab=t.0) is ground truth and may be edited by the user at any time. Recheck the relevant section before work; do not treat cached notes as current approvals. Follow explicit user directions and flag material conflicts.
 - Read this file, then use [TOC.md](TOC.md) to select only necessary files or source sections. Do not bulk-read the repository, linked background, or historical notes.
 - Locate actual reference images through [ILLUSTRATIONS.md](ILLUSTRATIONS.md). Preserve approved work, character continuity, and the separate left text/right illustration layout. Verify images before claiming to have inspected them.
