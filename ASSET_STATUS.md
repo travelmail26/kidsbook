@@ -1,6 +1,6 @@
 # Selected artwork
 
-The [public reader](https://aiden-hungry-friend.travelmail26.chatgpt.site) contains the 19 selected spreads. Site version 2 was published from source revision `4841cceee659286f054a37eee57352cab15e5e6f`. Creative review remains open; publication does not imply print readiness.
+The [public reader](https://aiden-hungry-friend.travelmail26.chatgpt.site) contains the 19 selected spreads. Site version 3 was published from source revision `1be76a56d958db237fa2c36888069c971b57efbc`. Creative review remains open; publication does not imply print readiness.
 
 | Scene | Selected image |
 | --- | --- |
