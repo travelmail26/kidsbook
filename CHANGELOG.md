@@ -106,3 +106,9 @@ For the logging subagent. The main agent uses the three recent summaries in [AGE
 
 - User explicitly requested actual artwork files in Git as well as the existing Drive folder, TOC and todo records. This commit includes all six selected Section 2 PNG binaries at their cataloged repository paths, with paired Git/Drive links and matching manifest SHA-256 values. The six existing Drive files were freshly verified for folder membership and matching sizes. User creative approval remains pending.
 - CLI push returned 403; authenticated GitHub connector blob/tree/commit publication is used. Publishing agent verifies the nonforced branch update, remote tree and asset hashes before reporting success. This record accompanies the same atomic commit as the six image files. No raw reference photos or failed candidates are included; concurrent sections and mobile-preview work are preserved.
+
+## 2026-09-05T17:57:42Z — Mobile preview confirmed and publication destination recorded
+
+- Greg confirmed the public preview works and requested its inclusion in GitHub assets, the TOC, and agent instructions.
+- Updated TOC.md, ILLUSTRATIONS.md, ASSET_STATUS.md, and AGENTS.md to record https://aiden-hungry-friend.travelmail26.chatgpt.site, the two existing approved spreads with website image URLs and Drive provenance, and the instruction to publish the initial book draft at this same website.
+- Documentation publication completed through commit 70c3862fbcf69ceeef03b438abfcab5f31f51516. The live site still contains the two-spread preview; the full initial draft is not yet live. No deployment or artwork changes were made in this turn, and the working-preview confirmation does not imply approval of additional book artwork.
